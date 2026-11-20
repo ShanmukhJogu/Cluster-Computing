@@ -1,0 +1,1001 @@
+customer_id,session_id,product_id,product_category,device_type,traffic_source,visitor_type,session_duration_sec,pages_viewed,product_clicks,items_viewed,cart_additions,search_queries,avg_page_time_sec,previous_purchases,discount_viewed,product_price,session_hour,day_of_week,purchase_made
+CUST10001,SESS20001,PROD359,Beauty,Mobile,Direct,Guest,363.0,5.0,4,6,2,0,28.2,3,0,120.82,6,4,0
+CUST10002,SESS20002,PROD214,Sports,Desktop,Email,New Visitor,154.0,4.0,4,5,1,3,43.8,0,1,84.65,16,5,0
+CUST10003,SESS20003,PROD759,Electronics,Mobile,Direct,Guest,602.0,7.0,3,3,1,2,33.7,2,1,197.75,17,7,1
+CUST10004,SESS20004,PROD277,Sports,Desktop,Paid Ads,Returning Visitor,419.0,3.0,8,10,1,1,,0,0,57.74,22,7,0
+CUST10005,SESS20005,PROD457,Sports,Mobile,Organic Search,Guest,182.0,9.0,3,8,0,1,56.9,0,0,19.69,5,5,0
+CUST10006,SESS20006,PROD801,Fashion,Mobile,Direct,Guest,190.0,8.0,4,6,0,4,12.4,0,0,147.72,20,4,0
+CUST10007,SESS20007,PROD695,Home & Kitchen,Desktop,Direct,Returning Visitor,36.0,5.0,3,7,2,1,51.8,0,0,93.65,2,3,1
+CUST10008,SESS20008,PROD818,Home & Kitchen,Desktop,Direct,Guest,316.0,7.0,5,8,1,1,23.9,2,0,35.03,7,6,0
+CUST10009,SESS20009,PROD858,Fashion,Mobile,Direct,Guest,188.0,9.0,3,4,2,0,16.5,0,0,18.82,13,4,0
+CUST10010,SESS20010,PROD648,Home & Kitchen,Mobile,Email,New Visitor,359.0,6.0,2,4,0,0,5.0,2,1,39.08,5,6,0
+CUST10011,SESS20011,PROD772,Books,Mobile,Organic Search,Returning Visitor,78.0,,3,3,0,1,7.9,0,1,48.32,2,5,0
+CUST10012,SESS20012,PROD147,Sports,Desktop,Organic Search,New Visitor,318.0,7.0,1,4,2,1,33.7,1,0,102.13,10,2,1
+CUST10013,SESS20013,PROD820,Fashion,Mobile,Organic Search,Returning Visitor,216.0,12.0,3,4,0,0,38.6,0,0,28.55,12,3,0
+CUST10014,SESS20014,PROD826,Fashion,Mobile,Organic Search,Guest,378.0,7.0,0,4,1,0,55.1,0,0,203.27,16,2,1
+CUST10015,SESS20015,PROD314,Home & Kitchen,Mobile,Social Media,Guest,608.0,5.0,4,5,1,1,18.6,0,0,42.56,2,2,1
+CUST10016,SESS20016,PROD779,Beauty,Mobile,Social Media,Returning Visitor,236.0,5.0,3,5,0,0,19.5,2,0,18.7,17,3,0
+CUST10017,SESS20017,PROD344,Beauty,Mobile,Paid Ads,Guest,70.0,5.0,3,7,1,2,46.3,0,0,265.64,13,2,1
+CUST10018,SESS20018,PROD582,Electronics,Desktop,Organic Search,New Visitor,123.0,1.0,3,6,0,0,56.2,0,1,63.24,6,5,0
+CUST10019,SESS20019,PROD246,Sports,Desktop,Paid Ads,Guest,404.0,6.0,2,6,0,2,17.5,3,0,146.79,6,4,1
+CUST10020,SESS20020,PROD934,Electronics,Mobile,Paid Ads,Returning Visitor,212.0,5.0,2,4,0,0,5.0,0,1,63.94,0,6,0
+CUST10021,SESS20021,PROD339,Fashion,Mobile,Email,Returning Visitor,359.0,4.0,2,2,0,2,38.8,2,0,17.5,23,6,0
+CUST10022,SESS20022,PROD571,Home & Kitchen,Desktop,Social Media,Guest,24.0,4.0,4,6,0,1,5.0,1,0,59.28,20,5,1
+CUST10023,,PROD293,Sports,Mobile,Direct,New Visitor,231.0,4.0,2,4,1,2,28.6,2,1,58.04,0,4,1
+CUST10024,SESS20024,PROD591,Electronics,Mobile,Organic Search,New Visitor,190.0,4.0,1,3,0,1,43.1,1,0,161.79,18,7,0
+CUST10025,SESS20025,PROD397,Beauty,Mobile,Organic Search,Returning Visitor,156.0,4.0,2,5,0,1,37.9,3,1,28.82,11,1,0
+CUST10026,SESS20026,PROD813,Fashion,Desktop,Social Media,New Visitor,456.0,10.0,1,4,0,0,46.5,0,1,93.13,10,5,1
+CUST10027,SESS20027,PROD635,Sports,Tablet,Email,Guest,286.0,5.0,3,5,1,1,67.9,1,0,68.71,21,3,0
+CUST10028,SESS20028,PROD878,Beauty,Tablet,Social Media,New Visitor,227.0,7.0,1,1,0,0,63.7,2,1,32.63,0,2,0
+CUST10029,SESS20029,PROD195,Fashion,Mobile,Social Media,Returning Visitor,269.0,12.0,2,5,0,2,22.5,4,1,42.01,17,1,1
+CUST10030,SESS20030,PROD960,Electronics,Desktop,Paid Ads,New Visitor,268.0,6.0,1,2,0,2,54.4,2,0,110.34,18,6,1
+CUST10031,SESS20031,PROD272,Sports,Mobile,Organic Search,Guest,598.0,8.0,4,6,1,0,46.9,2,1,5.31,2,5,1
+CUST10032,SESS20032,PROD606,Electronics,Mobile,Email,Returning Visitor,215.0,6.0,5,6,1,1,57.2,1,0,63.66,6,1,1
+CUST10033,SESS20033,PROD374,Sports,Desktop,Paid Ads,New Visitor,184.0,7.0,2,7,0,1,42.1,1,0,40.2,3,5,1
+CUST10034,SESS20034,PROD120,Beauty,Mobile,Email,Returning Visitor,177.0,,3,6,0,1,23.1,1,0,94.67,19,3,1
+CUST10035,SESS20035,PROD805,Electronics,Mobile,Social Media,New Visitor,124.0,4.0,3,5,1,0,,0,0,73.33,22,1,1
+CUST10036,SESS20036,PROD449,Home & Kitchen,Mobile,Organic Search,New Visitor,462.0,4.0,1,1,1,1,38.7,3,1,104.38,4,4,0
+CUST10037,SESS20037,PROD658,Fashion,Mobile,Paid Ads,Returning Visitor,188.0,9.0,6,7,3,1,30.0,3,0,54.88,0,7,1
+CUST10038,SESS20038,PROD805,Books,Mobile,Paid Ads,Returning Visitor,59.0,7.0,4,7,0,2,37.4,2,0,50.78,10,7,0
+CUST10039,SESS20039,PROD980,Sports,Tablet,Organic Search,New Visitor,103.0,7.0,3,4,0,1,49.9,1,1,29.06,12,2,0
+CUST10040,SESS20040,PROD616,Fashion,Desktop,Paid Ads,New Visitor,365.0,6.0,1,1,2,3,30.7,4,1,106.31,1,3,1
+CUST10041,SESS20041,PROD248,Fashion,Mobile,Paid Ads,Guest,626.0,7.0,5,8,1,0,42.4,2,0,79.72,21,5,0
+CUST10042,SESS20042,PROD250,Fashion,Mobile,Organic Search,Returning Visitor,157.0,9.0,1,3,0,3,79.8,1,0,179.19,7,7,0
+CUST10043,SESS20043,PROD818,Sports,Desktop,Organic Search,Returning Visitor,125.0,6.0,3,4,1,0,57.6,0,1,19.85,12,4,0
+CUST10044,SESS20044,PROD677,Sports,Mobile,Social Media,,279.0,4.0,4,4,0,2,39.2,0,1,28.85,4,7,0
+CUST10045,SESS20045,PROD755,Sports,Tablet,Social Media,New Visitor,247.0,4.0,0,0,1,1,60.2,3,0,28.39,22,7,0
+CUST10046,SESS20046,PROD407,Home & Kitchen,Mobile,Organic Search,New Visitor,539.0,6.0,1,4,0,1,23.3,1,0,61.93,1,7,0
+CUST10047,SESS20047,PROD431,Beauty,Mobile,Organic Search,Returning Visitor,305.0,4.0,5,10,0,2,53.1,1,1,73.69,11,6,1
+CUST10048,SESS20048,PROD831,Electronics,Mobile,Direct,New Visitor,262.0,9.0,0,1,0,2,90.8,0,1,50.36,4,5,0
+CUST10049,SESS20049,PROD616,Beauty,Mobile,Direct,New Visitor,243.0,6.0,5,7,0,2,36.9,0,1,35.15,21,6,0
+CUST10050,SESS20050,PROD806,Fashion,Mobile,Organic Search,Returning Visitor,303.0,7.0,3,7,0,1,35.3,1,1,42.82,4,2,1
+CUST10051,SESS20051,PROD591,Fashion,Desktop,Social Media,New Visitor,225.0,4.0,2,7,1,1,6.2,0,0,87.74,16,3,0
+CUST10052,,PROD425,Sports,Mobile,Paid Ads,Returning Visitor,532.0,3.0,2,3,0,0,37.5,1,0,19.1,5,6,0
+CUST10053,SESS20053,PROD787,Books,Mobile,Email,Guest,494.0,4.0,1,2,1,1,65.1,1,0,83.39,9,5,0
+CUST10054,SESS20054,PROD438,Electronics,Mobile,Direct,New Visitor,135.0,6.0,1,2,1,1,16.1,1,0,18.42,9,4,0
+CUST10055,SESS20055,PROD882,Fashion,Mobile,Paid Ads,Returning Visitor,179.0,8.0,3,5,1,3,53.0,2,1,43.31,1,5,1
+CUST10056,SESS20056,PROD358,Beauty,Tablet,Direct,New Visitor,218.0,6.0,4,5,2,1,49.8,0,1,78.23,13,2,1
+CUST10057,SESS20057,PROD181,Electronics,Tablet,Organic Search,New Visitor,193.0,8.0,4,5,0,1,6.6,0,1,163.77,2,7,0
+CUST10058,,PROD747,Books,Mobile,Organic Search,Returning Visitor,392.0,3.0,2,4,1,0,14.0,2,1,32.56,4,3,1
+CUST10059,SESS20059,PROD860,Fashion,Mobile,Direct,Guest,65.0,10.0,2,2,2,0,36.1,2,1,97.63,10,1,0
+CUST10060,SESS20060,PROD337,Fashion,Mobile,Paid Ads,Returning Visitor,288.0,6.0,3,10,0,1,54.8,2,0,127.12,8,6,0
+CUST10061,SESS20061,PROD523,Sports,Mobile,Paid Ads,Returning Visitor,114.0,9.0,3,3,1,1,25.4,1,1,91.78,4,4,0
+CUST10062,SESS20062,PROD179,Sports,Desktop,Paid Ads,Guest,,6.0,4,6,1,1,32.9,0,0,9.99,4,5,0
+CUST10063,SESS20063,PROD915,Electronics,Desktop,Organic Search,New Visitor,375.0,6.0,5,5,1,3,29.2,1,0,31.69,13,7,0
+CUST10064,SESS20064,PROD137,Beauty,Mobile,Paid Ads,New Visitor,117.0,4.0,3,6,1,1,29.8,4,0,124.46,10,7,1
+CUST10065,SESS20065,PROD610,Electronics,Desktop,Organic Search,Returning Visitor,334.0,6.0,2,5,0,2,49.3,4,0,113.88,10,3,1
+CUST10066,SESS20066,PROD988,Home & Kitchen,Mobile,Paid Ads,Returning Visitor,,5.0,4,7,0,5,,0,0,56.89,4,4,0
+CUST10067,SESS20067,PROD457,Home & Kitchen,Mobile,Email,Returning Visitor,315.0,7.0,3,5,0,2,19.7,0,0,20.57,20,5,1
+CUST10068,SESS20068,PROD377,Electronics,Desktop,Organic Search,Returning Visitor,146.0,3.0,4,6,2,0,70.4,2,0,20.87,7,7,0
+CUST10069,SESS20069,PROD950,Beauty,Desktop,Direct,Returning Visitor,184.0,4.0,2,2,0,3,44.8,1,0,39.19,20,5,1
+CUST10070,SESS20070,PROD334,Books,Desktop,Organic Search,New Visitor,102.0,9.0,3,5,1,2,37.5,0,1,194.09,6,3,1
+CUST10071,SESS20071,PROD615,Beauty,Tablet,Direct,Returning Visitor,189.0,6.0,2,5,0,2,37.2,1,1,103.94,22,5,0
+CUST10072,SESS20072,PROD765,Books,Desktop,Paid Ads,Returning Visitor,301.0,5.0,0,3,0,2,40.0,1,0,39.51,16,5,0
+CUST10073,SESS20073,PROD456,Books,Tablet,Organic Search,New Visitor,1099.0,8.0,5,6,1,0,57.6,1,0,55.46,6,5,0
+CUST10074,SESS20074,PROD462,Electronics,Desktop,Email,Guest,269.0,8.0,5,7,1,3,47.9,3,0,41.56,6,3,1
+CUST10075,SESS20075,PROD681,Fashion,Desktop,Social Media,Returning Visitor,161.0,3.0,2,4,0,2,17.9,0,0,44.23,2,3,0
+CUST10076,SESS20076,PROD320,Home & Kitchen,Mobile,Organic Search,Returning Visitor,87.0,4.0,4,8,0,1,19.0,3,1,23.53,0,3,0
+CUST10077,SESS20077,PROD904,Electronics,Mobile,Direct,Returning Visitor,284.0,7.0,4,7,0,0,,0,1,48.67,2,1,0
+CUST10078,SESS20078,PROD353,Electronics,Mobile,Email,Returning Visitor,223.0,5.0,3,4,0,2,32.9,2,1,106.26,12,4,1
+CUST10079,SESS20079,PROD449,Books,Mobile,Organic Search,Returning Visitor,62.0,6.0,1,3,0,0,5.0,1,0,28.55,13,2,0
+CUST10080,SESS20080,PROD388,Home & Kitchen,Desktop,Organic Search,Guest,45.0,5.0,4,9,0,0,38.8,0,0,33.78,11,7,0
+CUST10081,SESS20081,PROD958,Home & Kitchen,Mobile,Paid Ads,New Visitor,152.0,5.0,4,6,1,2,52.5,0,0,26.64,6,6,1
+CUST10082,SESS20082,PROD743,Sports,Mobile,Organic Search,Guest,458.0,7.0,2,5,2,3,5.0,2,1,21.96,6,6,0
+CUST10083,SESS20083,PROD916,Home & Kitchen,Desktop,Direct,New Visitor,140.0,5.0,7,7,2,1,42.7,2,0,12.08,1,1,0
+CUST10084,SESS20084,PROD598,Books,Mobile,Email,Returning Visitor,304.0,9.0,2,4,1,1,,0,0,152.76,13,2,1
+CUST10085,SESS20085,PROD913,Electronics,Desktop,Paid Ads,New Visitor,317.0,6.0,5,8,0,3,24.7,0,1,38.04,11,5,0
+CUST10086,SESS20086,PROD285,Books,Mobile,Organic Search,New Visitor,167.0,10.0,3,3,0,2,32.5,0,1,52.63,6,5,0
+CUST10087,SESS20087,PROD604,Beauty,Desktop,Organic Search,Guest,361.0,9.0,2,4,1,1,55.0,3,1,51.59,19,5,1
+CUST10088,SESS20088,PROD207,Books,Tablet,Email,New Visitor,475.0,8.0,1,2,1,3,71.8,2,0,116.56,13,7,0
+CUST10089,SESS20089,PROD749,Fashion,Desktop,Organic Search,New Visitor,478.0,4.0,1,5,0,1,51.0,0,1,35.39,0,1,0
+CUST10090,SESS20090,PROD260,Books,Desktop,Paid Ads,New Visitor,142.0,4.0,2,4,1,2,39.3,1,0,25.38,18,5,0
+CUST10091,SESS20091,PROD430,Electronics,Mobile,Organic Search,Returning Visitor,136.0,5.0,5,6,1,3,56.2,0,0,18.92,6,7,1
+CUST10092,SESS20092,PROD404,Sports,Desktop,Paid Ads,Returning Visitor,299.0,6.0,6,9,1,2,59.6,2,0,108.95,2,4,0
+CUST10093,SESS20093,PROD317,Home & Kitchen,Mobile,Organic Search,New Visitor,234.0,5.0,4,4,0,1,25.7,1,1,77.69,17,1,0
+CUST10094,SESS20094,PROD558,Fashion,Mobile,Organic Search,,189.0,6.0,3,7,2,3,38.9,1,0,55.63,8,7,0
+CUST10095,SESS20095,PROD684,Home & Kitchen,Desktop,Direct,Returning Visitor,91.0,8.0,5,7,1,1,12.8,2,0,39.78,0,1,1
+CUST10096,SESS20096,PROD979,Electronics,Desktop,Paid Ads,Returning Visitor,256.0,9.0,1,2,0,0,36.4,1,0,59.18,15,3,0
+CUST10097,SESS20097,PROD782,Fashion,Desktop,Direct,Returning Visitor,547.0,4.0,2,5,0,3,65.8,3,1,41.8,20,2,0
+CUST10098,SESS20098,PROD801,Sports,Desktop,Direct,Guest,212.0,4.0,2,2,0,0,26.2,2,0,10.24,12,6,0
+CUST10099,SESS20099,PROD145,Fashion,Mobile,Organic Search,Returning Visitor,120.0,10.0,2,3,0,1,72.4,2,0,35.84,19,2,1
+CUST10100,SESS20100,PROD853,Sports,Mobile,Social Media,New Visitor,716.0,6.0,0,2,0,3,50.8,2,0,50.29,13,6,0
+CUST10101,SESS20101,PROD840,Beauty,Mobile,Social Media,New Visitor,215.0,5.0,2,6,2,1,14.4,1,1,67.68,7,6,0
+CUST10102,SESS20102,PROD481,Books,Desktop,Paid Ads,,145.0,5.0,2,3,0,2,5.0,0,0,63.54,5,4,0
+CUST10103,SESS20103,PROD396,Electronics,Mobile,Direct,Returning Visitor,281.0,4.0,4,6,1,1,26.7,3,1,156.51,23,4,0
+CUST10104,SESS20104,PROD562,Sports,Mobile,Paid Ads,New Visitor,229.0,6.0,2,4,1,3,57.5,2,0,60.31,18,7,0
+CUST10105,SESS20105,PROD297,Fashion,Desktop,Email,New Visitor,407.0,2.0,7,8,1,1,44.9,1,1,40.91,6,7,0
+CUST10106,SESS20106,PROD911,Books,Mobile,Direct,Returning Visitor,92.0,8.0,2,3,1,0,51.6,2,0,10.02,4,6,0
+CUST10107,SESS20107,PROD965,Electronics,Tablet,Social Media,New Visitor,378.0,7.0,4,5,0,1,32.6,1,0,138.52,9,1,0
+CUST10108,SESS20108,PROD425,Fashion,Desktop,Paid Ads,Guest,435.0,5.0,1,3,1,2,35.8,1,1,33.52,2,3,0
+CUST10109,SESS20109,PROD632,Books,Desktop,,New Visitor,140.0,5.0,4,7,0,0,9.4,3,0,52.72,20,7,0
+CUST10110,SESS20110,PROD190,Books,Desktop,Paid Ads,New Visitor,82.0,3.0,5,6,1,3,74.7,2,1,62.52,22,5,0
+CUST10111,SESS20111,PROD343,Electronics,Mobile,Social Media,Guest,583.0,7.0,4,6,0,2,29.6,0,0,151.5,22,7,0
+CUST10112,SESS20112,PROD207,Sports,Mobile,Direct,New Visitor,242.0,5.0,2,2,1,0,33.6,0,0,63.07,21,6,0
+CUST10113,SESS20113,PROD885,Beauty,Desktop,Direct,Returning Visitor,127.0,7.0,5,9,1,0,40.1,0,0,120.33,19,3,0
+CUST10114,SESS20114,PROD592,Fashion,Tablet,Paid Ads,Returning Visitor,185.0,6.0,0,5,0,3,7.1,3,0,16.41,13,1,0
+CUST10115,SESS20115,PROD212,Fashion,Desktop,Email,New Visitor,,3.0,3,5,1,2,20.9,2,1,34.19,3,3,1
+CUST10116,SESS20116,PROD803,Home & Kitchen,Mobile,Organic Search,Returning Visitor,310.0,6.0,6,10,1,1,65.6,1,0,41.57,2,6,1
+CUST10117,SESS20117,PROD908,Fashion,Mobile,Organic Search,Guest,248.0,7.0,4,5,2,1,53.6,3,1,34.22,17,2,0
+CUST10118,SESS20118,PROD305,Fashion,Mobile,Direct,Guest,76.0,6.0,3,6,1,2,31.5,0,1,57.33,7,3,0
+CUST10119,SESS20119,PROD696,Books,Tablet,Organic Search,New Visitor,355.0,9.0,5,8,3,2,28.0,2,0,124.74,6,5,1
+CUST10120,SESS20120,PROD530,Electronics,Mobile,Direct,Guest,178.0,5.0,4,6,1,2,41.6,2,0,16.55,9,3,0
+CUST10121,SESS20121,PROD553,Fashion,Desktop,Email,Guest,146.0,5.0,1,5,1,3,17.0,0,1,77.61,16,3,1
+CUST10122,SESS20122,PROD231,Beauty,Mobile,Social Media,Returning Visitor,319.0,6.0,3,4,1,0,30.7,1,1,63.19,12,2,0
+CUST10123,SESS20123,PROD158,Beauty,Mobile,Organic Search,Returning Visitor,195.0,10.0,1,2,1,0,44.9,2,0,57.48,22,5,0
+CUST10124,SESS20124,PROD995,Electronics,Mobile,Paid Ads,Guest,321.0,3.0,3,5,1,1,63.2,0,0,36.53,12,6,1
+CUST10125,SESS20125,PROD321,Beauty,Mobile,Organic Search,Guest,564.0,4.0,3,4,1,0,34.8,2,0,108.62,5,7,0
+CUST10126,,PROD996,Electronics,Mobile,Social Media,New Visitor,343.0,7.0,3,4,1,0,56.6,1,0,146.32,14,2,0
+CUST10127,SESS20127,PROD417,Fashion,Desktop,Paid Ads,New Visitor,133.0,9.0,3,5,1,2,20.0,0,1,40.45,3,2,0
+CUST10128,SESS20128,PROD230,Electronics,Tablet,Organic Search,New Visitor,,4.0,2,4,0,1,37.7,1,0,88.3,22,7,0
+CUST10129,SESS20129,PROD766,Electronics,Mobile,Email,Returning Visitor,192.0,5.0,2,5,1,4,44.5,1,0,49.83,9,1,1
+CUST10130,SESS20130,PROD751,Home & Kitchen,Mobile,Direct,New Visitor,242.0,3.0,2,3,0,1,16.6,2,1,65.4,6,3,0
+CUST10131,SESS20131,PROD348,Fashion,Mobile,Social Media,Guest,1067.0,6.0,6,8,1,2,18.3,3,0,109.43,11,5,1
+CUST10132,SESS20132,PROD859,Books,Mobile,Direct,New Visitor,,4.0,5,8,0,0,61.7,1,0,22.77,14,4,1
+CUST10133,SESS20133,PROD945,Electronics,Desktop,Paid Ads,Returning Visitor,342.0,3.0,2,7,1,1,30.4,3,1,33.84,17,5,1
+CUST10134,SESS20134,PROD126,Books,Mobile,Social Media,New Visitor,62.0,2.0,4,9,1,1,12.4,2,0,185.24,12,6,1
+CUST10135,SESS20135,PROD101,Sports,Desktop,Social Media,Returning Visitor,375.0,6.0,3,4,1,1,43.3,1,1,86.82,4,5,0
+CUST10136,SESS20136,PROD331,Home & Kitchen,Mobile,Direct,New Visitor,102.0,9.0,3,6,0,2,16.1,0,1,39.51,7,5,0
+CUST10137,SESS20137,PROD597,Home & Kitchen,Desktop,Organic Search,,402.0,5.0,6,7,0,1,61.4,1,0,134.0,22,4,0
+CUST10138,SESS20138,PROD331,Sports,Tablet,Social Media,Returning Visitor,148.0,5.0,1,3,2,1,40.8,0,1,56.32,19,4,0
+CUST10139,SESS20139,PROD559,Sports,Mobile,Organic Search,Returning Visitor,302.0,6.0,0,4,1,2,,1,1,27.78,4,5,0
+CUST10140,SESS20140,PROD547,Fashion,Mobile,Paid Ads,Guest,458.0,4.0,7,7,1,2,10.9,2,0,33.05,4,7,1
+CUST10141,SESS20141,PROD501,Sports,Mobile,Social Media,New Visitor,,4.0,4,6,0,1,23.4,2,0,38.84,23,1,0
+CUST10142,SESS20142,PROD222,Fashion,Desktop,Paid Ads,Guest,34.0,6.0,2,6,2,1,25.6,0,0,37.31,15,6,0
+CUST10143,SESS20143,PROD284,Home & Kitchen,Mobile,Social Media,Guest,123.0,7.0,4,4,0,1,13.9,1,0,62.23,16,5,0
+CUST10144,SESS20144,PROD645,Sports,Mobile,Email,New Visitor,317.0,6.0,1,4,2,3,37.0,0,0,18.84,5,2,0
+CUST10145,SESS20145,PROD120,Sports,Mobile,Social Media,,258.0,6.0,3,5,2,0,46.2,2,0,36.05,3,4,1
+CUST10146,SESS20146,PROD857,Fashion,Desktop,Organic Search,New Visitor,133.0,7.0,5,11,0,1,,3,1,12.17,15,2,0
+CUST10147,SESS20147,PROD843,Fashion,Mobile,Social Media,Returning Visitor,200.0,5.0,5,7,1,3,32.0,2,0,353.18,8,2,1
+CUST10148,SESS20148,PROD242,Electronics,Mobile,Organic Search,Returning Visitor,127.0,7.0,2,6,1,2,55.3,1,1,21.17,23,6,0
+CUST10149,SESS20149,PROD470,Fashion,Mobile,Social Media,Guest,305.0,6.0,1,2,0,2,48.6,1,0,90.09,9,6,1
+CUST10150,SESS20150,PROD323,Sports,Tablet,Organic Search,Returning Visitor,393.0,9.0,5,6,2,0,19.6,1,0,100.39,14,1,1
+CUST10151,SESS20151,PROD422,Sports,Desktop,Paid Ads,New Visitor,246.0,3.0,6,6,2,3,26.1,1,0,69.07,19,1,0
+CUST10152,SESS20152,PROD354,Books,Mobile,Organic Search,Returning Visitor,357.0,6.0,3,7,0,1,25.0,1,0,18.12,20,1,0
+CUST10153,SESS20153,PROD441,Sports,Mobile,Email,New Visitor,248.0,7.0,2,4,0,2,10.7,2,0,34.36,13,5,1
+CUST10154,SESS20154,PROD613,Sports,Tablet,Organic Search,Returning Visitor,139.0,6.0,4,5,1,1,5.0,1,1,53.23,0,3,0
+CUST10155,SESS20155,PROD271,Fashion,Mobile,Direct,,416.0,8.0,3,5,0,1,5.0,2,0,50.2,2,7,1
+CUST10156,SESS20156,PROD635,Electronics,Mobile,Social Media,Returning Visitor,38.0,5.0,4,8,1,2,25.5,1,0,88.57,16,3,1
+CUST10157,SESS20157,PROD308,Sports,Mobile,Email,Returning Visitor,180.0,3.0,3,3,0,2,46.8,0,1,16.2,15,2,0
+CUST10158,SESS20158,PROD362,Electronics,Mobile,Organic Search,Guest,395.0,6.0,4,9,0,1,,1,0,363.19,10,2,1
+CUST10159,SESS20159,PROD511,Fashion,Mobile,Paid Ads,Returning Visitor,317.0,5.0,4,7,1,1,49.8,0,0,37.03,22,7,0
+CUST10160,SESS20160,PROD829,Fashion,Desktop,Social Media,New Visitor,307.0,8.0,3,6,1,5,55.1,3,0,42.34,7,3,1
+CUST10161,SESS20161,PROD464,Fashion,Mobile,Email,Returning Visitor,,6.0,4,9,1,2,18.9,1,1,23.88,4,6,0
+CUST10162,SESS20162,PROD566,Electronics,Desktop,Organic Search,Returning Visitor,268.0,8.0,3,5,2,2,23.0,1,0,68.69,10,4,0
+CUST10163,SESS20163,PROD410,Sports,Tablet,Paid Ads,Guest,172.0,6.0,2,5,2,1,31.4,0,0,195.49,7,7,0
+CUST10164,SESS20164,PROD772,Home & Kitchen,Tablet,Direct,Returning Visitor,188.0,5.0,3,5,0,1,44.3,2,0,70.01,14,7,0
+CUST10165,SESS20165,PROD584,Sports,Mobile,Organic Search,New Visitor,169.0,7.0,4,7,1,2,7.7,2,0,36.17,6,3,0
+CUST10166,SESS20166,PROD599,Fashion,Mobile,Organic Search,Guest,278.0,4.0,2,3,0,4,47.4,0,1,48.74,4,2,0
+CUST10167,SESS20167,PROD735,Home & Kitchen,Mobile,Direct,Guest,475.0,7.0,5,6,1,2,27.5,1,0,29.22,16,1,0
+CUST10168,,PROD711,Fashion,Tablet,Email,New Visitor,172.0,10.0,2,3,0,5,24.5,2,1,136.87,6,4,1
+CUST10169,SESS20169,PROD587,Fashion,Mobile,Social Media,New Visitor,229.0,8.0,4,7,1,3,30.3,2,1,32.86,5,4,1
+CUST10170,SESS20170,PROD388,Sports,Mobile,Paid Ads,Returning Visitor,76.0,8.0,5,6,0,2,25.7,2,0,102.61,4,4,0
+CUST10171,SESS20171,PROD852,Home & Kitchen,Mobile,Organic Search,New Visitor,214.0,5.0,6,10,1,1,24.6,0,0,37.72,11,2,0
+CUST10172,SESS20172,PROD504,Electronics,Mobile,Organic Search,Returning Visitor,153.0,6.0,1,1,1,1,36.6,4,1,59.32,10,2,1
+CUST10173,SESS20173,PROD253,Books,Tablet,Organic Search,New Visitor,213.0,6.0,4,5,1,3,19.8,3,0,82.76,9,6,1
+CUST10174,SESS20174,PROD489,Sports,Mobile,Paid Ads,Returning Visitor,310.0,4.0,1,3,1,1,49.8,0,0,146.99,4,1,0
+CUST10175,SESS20175,PROD613,Home & Kitchen,Mobile,Direct,Returning Visitor,320.0,2.0,5,8,2,1,54.6,2,0,37.97,11,1,0
+CUST10176,SESS20176,PROD275,Beauty,Mobile,Organic Search,New Visitor,237.0,6.0,6,7,2,2,63.5,1,1,57.58,11,7,1
+CUST10177,SESS20177,PROD155,Sports,Mobile,Paid Ads,Returning Visitor,366.0,10.0,4,7,0,0,34.4,0,0,55.37,6,4,0
+CUST10178,SESS20178,PROD777,Fashion,Tablet,Social Media,Guest,214.0,4.0,4,8,0,1,,4,0,31.25,2,2,0
+CUST10179,SESS20179,PROD300,Books,Mobile,Email,Returning Visitor,481.0,7.0,1,2,1,1,59.1,0,0,94.92,0,4,0
+CUST10180,SESS20180,PROD729,Books,Desktop,Organic Search,New Visitor,151.0,7.0,3,5,0,2,53.7,2,0,35.32,23,6,0
+CUST10181,SESS20181,PROD518,Books,Mobile,Paid Ads,Guest,617.0,7.0,9,12,3,0,18.6,4,0,181.13,2,4,1
+CUST10182,SESS20182,PROD265,Fashion,Mobile,Paid Ads,Returning Visitor,318.0,4.0,0,2,0,1,21.2,0,0,39.07,1,3,0
+CUST10183,SESS20183,PROD799,Electronics,Mobile,Social Media,Returning Visitor,286.0,6.0,3,8,1,2,63.6,1,0,30.63,21,3,0
+CUST10184,SESS20184,PROD934,Electronics,Mobile,Direct,Returning Visitor,515.0,4.0,1,2,1,0,60.3,2,0,46.04,9,7,1
+CUST10185,SESS20185,PROD762,Beauty,Desktop,Paid Ads,Returning Visitor,520.0,5.0,5,7,3,1,14.6,2,0,105.65,19,4,1
+CUST10186,SESS20186,PROD457,Home & Kitchen,Mobile,Paid Ads,Returning Visitor,416.0,5.0,3,4,0,0,48.5,2,0,12.97,10,1,1
+CUST10187,SESS20187,PROD750,Home & Kitchen,Desktop,Social Media,Returning Visitor,366.0,8.0,2,2,1,1,54.4,0,1,51.52,17,7,1
+CUST10188,SESS20188,PROD541,Beauty,Mobile,Social Media,Returning Visitor,233.0,7.0,2,5,1,0,15.2,2,1,68.73,12,4,0
+CUST10189,SESS20189,PROD933,Home & Kitchen,Desktop,Social Media,New Visitor,191.0,5.0,2,4,0,4,50.1,1,0,57.88,11,4,1
+CUST10190,SESS20190,PROD964,Home & Kitchen,Mobile,Organic Search,New Visitor,169.0,5.0,4,8,0,2,16.4,0,0,6.88,21,3,0
+CUST10191,SESS20191,PROD438,Fashion,Mobile,Organic Search,New Visitor,253.0,8.0,4,4,0,1,45.0,4,0,21.38,22,5,1
+CUST10192,SESS20192,PROD343,Electronics,Mobile,,New Visitor,334.0,7.0,3,4,0,1,51.9,2,0,87.81,2,5,0
+CUST10193,,PROD819,Home & Kitchen,Desktop,Email,Returning Visitor,211.0,,3,5,0,1,6.8,0,0,93.26,22,6,1
+CUST10194,SESS20194,PROD423,Fashion,Mobile,,New Visitor,354.0,5.0,4,5,1,0,76.7,3,1,158.23,15,1,1
+CUST10195,SESS20195,PROD141,Fashion,Mobile,Organic Search,Returning Visitor,174.0,3.0,2,2,0,0,30.4,1,0,101.48,23,2,1
+CUST10196,SESS20196,PROD344,Electronics,Mobile,Direct,New Visitor,186.0,2.0,3,4,0,1,23.9,1,0,61.38,9,4,1
+CUST10197,SESS20197,PROD723,Electronics,Mobile,Social Media,Guest,174.0,5.0,4,5,1,0,45.8,1,0,45.42,2,3,0
+CUST10198,SESS20198,PROD410,Fashion,Mobile,Direct,New Visitor,,7.0,4,7,0,1,37.2,0,0,83.92,10,3,0
+CUST10199,SESS20199,PROD128,Fashion,Desktop,Direct,Guest,49.0,6.0,3,5,0,1,21.5,2,1,16.24,8,5,1
+CUST10200,SESS20200,PROD209,Books,Mobile,Paid Ads,Returning Visitor,185.0,6.0,3,3,0,1,38.6,0,0,48.46,9,3,0
+CUST10201,SESS20201,PROD445,Electronics,Tablet,Direct,Returning Visitor,153.0,8.0,3,5,0,1,13.5,1,1,82.85,0,2,0
+CUST10202,SESS20202,PROD140,Books,Tablet,Direct,Returning Visitor,313.0,4.0,3,3,1,0,40.4,1,0,42.53,16,1,0
+CUST10203,SESS20203,PROD742,Fashion,Mobile,Direct,New Visitor,250.0,5.0,3,3,0,4,45.8,4,0,85.59,2,2,1
+CUST10204,SESS20204,PROD110,Books,Mobile,Social Media,Returning Visitor,202.0,7.0,4,6,0,0,37.3,0,1,81.34,1,6,0
+CUST10205,,PROD700,Fashion,Mobile,Direct,Returning Visitor,187.0,6.0,2,8,0,2,18.6,3,0,60.9,6,7,1
+CUST10206,SESS20206,PROD608,Electronics,Mobile,Email,Returning Visitor,232.0,9.0,1,1,0,3,41.7,0,0,78.15,3,2,0
+CUST10207,SESS20207,PROD420,Fashion,Mobile,Paid Ads,Guest,82.0,13.0,7,7,1,2,51.2,3,0,23.96,3,2,1
+CUST10208,SESS20208,PROD299,Home & Kitchen,Mobile,Organic Search,Returning Visitor,104.0,9.0,3,3,0,1,54.7,1,1,121.96,12,6,0
+CUST10209,SESS20209,PROD832,Fashion,Desktop,Organic Search,Returning Visitor,133.0,2.0,2,4,0,2,29.8,2,1,37.04,4,6,0
+CUST10210,SESS20210,PROD406,Fashion,Mobile,,Returning Visitor,108.0,6.0,7,7,2,0,37.0,2,0,65.64,1,4,1
+CUST10211,,PROD894,Home & Kitchen,Mobile,Social Media,Guest,261.0,5.0,7,13,3,2,83.4,2,0,73.01,4,5,1
+CUST10212,SESS20212,PROD597,Fashion,Mobile,Paid Ads,Guest,112.0,8.0,2,2,1,1,66.9,1,0,55.77,16,1,0
+CUST10213,SESS20213,PROD556,Fashion,Desktop,Organic Search,Returning Visitor,290.0,10.0,3,4,0,3,31.8,1,1,167.16,22,4,0
+CUST10214,SESS20214,PROD572,Fashion,Mobile,Organic Search,Returning Visitor,562.0,12.0,2,3,0,3,37.3,0,1,18.22,6,3,0
+CUST10215,SESS20215,PROD888,Home & Kitchen,Tablet,Organic Search,Guest,308.0,4.0,2,6,0,1,70.4,1,0,31.61,10,3,0
+CUST10216,SESS20216,PROD217,Books,Mobile,Organic Search,New Visitor,346.0,5.0,6,9,0,1,63.4,2,0,29.6,20,1,0
+CUST10217,SESS20217,PROD194,Fashion,Mobile,Social Media,Returning Visitor,242.0,5.0,2,2,0,0,10.3,1,1,91.41,0,2,0
+CUST10218,SESS20218,PROD677,Books,Mobile,Social Media,New Visitor,116.0,8.0,2,2,1,1,55.6,1,0,139.82,8,6,0
+CUST10219,SESS20219,PROD908,Home & Kitchen,Mobile,Direct,Guest,117.0,5.0,3,7,0,1,40.4,2,0,87.82,7,7,0
+CUST10220,SESS20220,PROD677,Books,Mobile,Social Media,New Visitor,409.0,3.0,4,5,2,0,62.9,3,0,13.51,14,5,1
+CUST10221,SESS20221,PROD334,Books,Mobile,Social Media,Returning Visitor,375.0,9.0,7,12,2,3,37.7,0,0,27.26,18,7,1
+CUST10222,SESS20222,PROD377,Fashion,Desktop,Email,Returning Visitor,257.0,4.0,4,5,0,1,30.4,0,0,23.6,3,1,0
+CUST10223,SESS20223,PROD705,Home & Kitchen,Desktop,Paid Ads,New Visitor,279.0,8.0,4,7,1,1,45.3,0,1,25.29,22,4,1
+CUST10224,SESS20224,PROD382,Electronics,Mobile,Organic Search,Returning Visitor,171.0,7.0,5,7,1,1,32.7,0,1,30.66,16,4,1
+CUST10225,SESS20225,PROD880,Electronics,Mobile,Organic Search,Guest,128.0,6.0,10,11,2,2,49.5,3,0,6.31,4,7,1
+CUST10226,SESS20226,PROD607,Books,Desktop,Organic Search,Returning Visitor,87.0,7.0,3,3,0,3,36.4,0,0,121.2,13,5,0
+CUST10227,SESS20227,PROD606,Sports,Mobile,Organic Search,New Visitor,73.0,2.0,1,1,0,1,51.8,1,1,168.17,15,1,0
+CUST10228,SESS20228,PROD203,Books,Desktop,Organic Search,New Visitor,234.0,8.0,5,11,0,3,,0,1,155.14,18,5,1
+CUST10229,SESS20229,PROD626,Home & Kitchen,Mobile,Organic Search,,247.0,5.0,3,3,1,1,11.7,2,0,25.89,20,1,0
+CUST10230,SESS20230,PROD745,Books,Desktop,Email,New Visitor,99.0,9.0,4,5,1,2,71.9,0,0,45.5,4,2,1
+CUST10231,SESS20231,PROD171,Home & Kitchen,Desktop,Email,New Visitor,302.0,6.0,2,3,0,1,79.6,1,0,58.11,12,5,0
+CUST10232,SESS20232,PROD367,Books,Mobile,Paid Ads,New Visitor,254.0,8.0,1,1,0,0,75.0,1,0,180.4,5,7,0
+CUST10233,SESS20233,PROD759,Books,Desktop,Social Media,Returning Visitor,359.0,7.0,4,4,0,4,40.8,1,0,59.45,10,4,0
+CUST10234,SESS20234,PROD369,Fashion,Mobile,Paid Ads,Returning Visitor,110.0,5.0,1,4,1,0,19.3,2,1,40.55,23,5,1
+CUST10235,SESS20235,PROD219,Fashion,Mobile,Social Media,New Visitor,252.0,3.0,4,5,0,0,11.5,1,0,49.51,23,7,0
+CUST10236,SESS20236,PROD113,Electronics,Mobile,Email,New Visitor,148.0,9.0,6,6,1,2,64.0,0,0,38.43,2,2,0
+CUST10237,SESS20237,PROD849,Beauty,Mobile,Organic Search,Returning Visitor,346.0,6.0,1,2,1,6,43.8,0,0,17.58,4,1,0
+CUST10238,SESS20238,PROD663,Beauty,Mobile,Paid Ads,New Visitor,51.0,3.0,2,4,0,2,16.4,0,1,244.15,1,4,0
+CUST10239,SESS20239,PROD192,Home & Kitchen,Mobile,Social Media,Returning Visitor,314.0,3.0,3,4,1,4,19.0,0,0,18.25,2,1,1
+CUST10240,SESS20240,PROD667,Electronics,Desktop,Organic Search,Returning Visitor,329.0,7.0,1,4,1,1,53.7,1,1,101.89,19,7,0
+CUST10241,SESS20241,PROD830,Electronics,Mobile,Direct,Returning Visitor,176.0,,2,2,1,2,5.0,1,1,19.36,22,7,0
+CUST10242,SESS20242,PROD215,Fashion,Mobile,Organic Search,,214.0,6.0,2,3,1,0,40.0,1,1,14.1,12,1,0
+CUST10243,SESS20243,PROD366,Books,Mobile,Paid Ads,Returning Visitor,276.0,8.0,9,11,1,2,41.1,1,1,25.02,4,7,0
+CUST10244,SESS20244,PROD989,Home & Kitchen,Mobile,Email,Guest,275.0,4.0,2,5,1,1,49.8,1,1,116.63,22,3,0
+CUST10245,SESS20245,PROD104,Electronics,Mobile,Direct,Returning Visitor,245.0,6.0,1,3,0,0,87.7,1,0,30.69,13,7,0
+CUST10246,SESS20246,PROD618,Electronics,Mobile,Organic Search,Returning Visitor,93.0,5.0,2,3,2,2,18.1,2,0,14.27,4,1,1
+CUST10247,SESS20247,PROD493,Home & Kitchen,Tablet,Direct,Guest,335.0,6.0,6,6,1,2,43.1,2,0,17.87,17,2,0
+CUST10248,SESS20248,PROD133,Beauty,Desktop,Paid Ads,Returning Visitor,262.0,5.0,2,3,0,2,46.0,3,0,70.7,4,2,1
+CUST10249,SESS20249,PROD534,Fashion,Desktop,Paid Ads,New Visitor,42.0,8.0,4,7,0,0,13.3,1,0,291.58,8,2,0
+CUST10250,SESS20250,PROD870,Sports,Mobile,Direct,New Visitor,119.0,6.0,4,8,2,1,40.7,2,0,535.26,13,4,1
+CUST10251,SESS20251,PROD361,Fashion,Mobile,Direct,Returning Visitor,167.0,9.0,3,4,0,0,84.2,1,0,16.21,22,3,0
+CUST10252,SESS20252,PROD704,Fashion,Mobile,Social Media,Returning Visitor,193.0,5.0,3,6,2,1,38.6,1,0,26.74,19,6,1
+CUST10253,SESS20253,PROD213,Fashion,Mobile,Paid Ads,Returning Visitor,184.0,9.0,4,7,1,0,5.0,2,1,60.34,4,1,1
+CUST10254,SESS20254,PROD332,Fashion,Tablet,Organic Search,New Visitor,178.0,3.0,6,9,0,3,40.3,3,0,49.73,1,2,0
+CUST10255,SESS20255,PROD508,Electronics,Tablet,Paid Ads,Guest,185.0,8.0,4,9,0,1,70.7,2,1,103.59,2,1,1
+CUST10256,SESS20256,PROD969,Home & Kitchen,Desktop,Organic Search,Returning Visitor,184.0,9.0,4,4,0,1,44.8,0,0,53.04,7,5,0
+CUST10257,SESS20257,PROD312,Fashion,Mobile,Organic Search,New Visitor,402.0,,4,5,0,4,46.0,3,1,25.38,2,5,1
+CUST10258,SESS20258,PROD996,Home & Kitchen,Mobile,Organic Search,Returning Visitor,578.0,4.0,6,8,1,1,39.3,0,1,220.99,15,1,1
+CUST10259,SESS20259,PROD671,Fashion,Mobile,Organic Search,Returning Visitor,54.0,7.0,4,4,1,1,,2,0,33.38,18,2,0
+CUST10260,SESS20260,PROD550,Books,Mobile,Organic Search,Guest,55.0,6.0,3,3,1,0,64.7,2,1,71.0,14,1,0
+CUST10261,SESS20261,PROD959,Electronics,Mobile,Email,Returning Visitor,277.0,8.0,4,6,1,2,65.7,2,0,50.77,11,2,0
+CUST10262,SESS20262,PROD230,Beauty,Tablet,Paid Ads,Returning Visitor,140.0,10.0,5,6,1,1,42.3,1,0,73.01,10,2,1
+CUST10263,SESS20263,PROD326,Electronics,Mobile,Direct,Returning Visitor,285.0,6.0,3,7,0,0,41.9,3,0,39.14,3,6,0
+CUST10264,SESS20264,PROD169,Fashion,Mobile,Organic Search,New Visitor,56.0,7.0,1,2,1,3,44.5,1,1,43.76,9,6,1
+CUST10265,SESS20265,PROD428,Home & Kitchen,Mobile,Organic Search,Guest,,7.0,4,8,1,1,56.2,1,1,61.95,22,5,1
+CUST10266,SESS20266,PROD614,Books,Mobile,Organic Search,New Visitor,67.0,3.0,3,4,0,1,5.0,2,1,54.58,13,4,0
+CUST10267,SESS20267,PROD383,Home & Kitchen,Mobile,Social Media,Guest,988.0,7.0,2,2,1,1,64.4,1,0,37.09,2,4,1
+CUST10268,SESS20268,PROD645,Books,Desktop,Social Media,Guest,86.0,5.0,5,9,0,2,46.5,0,1,85.71,2,7,0
+CUST10269,SESS20269,PROD730,Electronics,Mobile,Social Media,New Visitor,135.0,3.0,5,7,1,0,37.7,1,0,167.31,23,2,0
+CUST10270,SESS20270,PROD147,Fashion,Desktop,Email,Returning Visitor,266.0,7.0,1,6,0,0,39.5,2,0,10.98,18,1,0
+CUST10271,SESS20271,PROD629,Electronics,Desktop,Social Media,Returning Visitor,215.0,3.0,2,2,0,2,46.1,0,1,55.04,10,6,0
+CUST10272,SESS20272,PROD656,Sports,Tablet,Organic Search,Guest,647.0,6.0,2,2,1,2,49.6,2,1,45.74,9,6,0
+CUST10273,SESS20273,PROD263,Home & Kitchen,Desktop,Organic Search,Guest,243.0,7.0,1,2,0,4,32.0,2,1,27.98,21,2,0
+CUST10274,SESS20274,PROD948,Home & Kitchen,Mobile,Paid Ads,Guest,180.0,2.0,2,4,1,1,16.9,3,0,9.52,14,1,0
+CUST10275,SESS20275,PROD692,Electronics,Desktop,Direct,Guest,156.0,7.0,5,5,0,3,24.0,1,1,49.85,19,3,1
+CUST10276,SESS20276,PROD632,Sports,Mobile,Paid Ads,New Visitor,178.0,5.0,2,2,2,2,43.0,1,0,63.48,5,2,0
+CUST10277,SESS20277,PROD155,Electronics,Mobile,Email,New Visitor,168.0,6.0,6,9,1,2,67.1,0,1,204.47,2,1,0
+CUST10278,SESS20278,PROD890,Books,Mobile,Direct,Guest,69.0,3.0,4,7,0,1,27.5,0,1,121.03,16,6,0
+CUST10279,SESS20279,PROD249,Electronics,Desktop,Social Media,New Visitor,236.0,5.0,4,4,0,4,32.5,0,0,68.7,21,7,1
+CUST10280,SESS20280,PROD577,Beauty,Desktop,Social Media,Returning Visitor,287.0,4.0,2,5,1,1,23.2,1,1,140.95,18,2,0
+CUST10281,SESS20281,PROD514,Sports,Mobile,Organic Search,Guest,100.0,8.0,1,1,0,2,56.1,1,1,39.41,7,4,0
+CUST10282,SESS20282,PROD728,Beauty,Desktop,Paid Ads,Guest,493.0,9.0,4,5,0,2,17.6,1,1,195.73,8,5,0
+CUST10283,SESS20283,PROD703,Home & Kitchen,Mobile,Organic Search,Guest,65.0,7.0,2,5,0,2,64.8,0,0,19.46,4,1,0
+CUST10284,SESS20284,PROD184,Home & Kitchen,Desktop,Organic Search,Returning Visitor,76.0,2.0,2,3,1,2,10.7,1,1,81.45,14,3,1
+CUST10285,SESS20285,PROD193,Books,Mobile,Paid Ads,New Visitor,462.0,8.0,3,4,1,0,52.0,0,0,27.26,1,6,0
+CUST10286,SESS20286,PROD514,Electronics,Desktop,Paid Ads,Guest,516.0,5.0,2,5,0,1,29.3,1,0,22.99,20,2,0
+CUST10287,SESS20287,PROD585,Electronics,Tablet,Organic Search,New Visitor,383.0,11.0,1,3,0,2,58.5,0,0,52.99,8,1,1
+CUST10288,SESS20288,PROD605,Fashion,Mobile,Organic Search,Returning Visitor,368.0,4.0,2,6,1,5,19.0,2,0,68.01,2,7,0
+CUST10289,SESS20289,PROD142,Electronics,Mobile,Social Media,New Visitor,146.0,13.0,3,6,0,2,5.0,2,1,88.6,17,5,0
+CUST10290,SESS20290,PROD547,Home & Kitchen,Desktop,Direct,Returning Visitor,,1.0,1,1,1,0,12.3,0,1,39.77,13,2,1
+CUST10291,SESS20291,PROD588,Books,Desktop,Organic Search,Returning Visitor,231.0,5.0,4,6,0,1,40.6,2,1,134.82,23,5,1
+CUST10292,SESS20292,PROD966,Beauty,Mobile,Paid Ads,Returning Visitor,120.0,8.0,4,5,0,1,46.3,1,1,45.24,1,3,1
+CUST10293,SESS20293,PROD884,Beauty,Desktop,Organic Search,New Visitor,304.0,3.0,2,3,0,1,15.6,1,0,31.34,7,5,0
+CUST10294,SESS20294,PROD177,Electronics,Mobile,Email,Returning Visitor,165.0,2.0,5,8,0,0,62.8,2,0,61.04,7,5,1
+CUST10295,SESS20295,PROD529,Books,Mobile,Direct,Returning Visitor,204.0,4.0,4,7,1,4,16.6,1,0,104.35,0,6,1
+CUST10296,SESS20296,PROD617,Beauty,Mobile,Organic Search,New Visitor,243.0,8.0,6,7,0,2,23.9,3,0,234.25,14,2,0
+CUST10297,SESS20297,PROD136,Beauty,Mobile,Direct,New Visitor,181.0,8.0,3,7,0,1,31.8,0,1,210.97,6,3,0
+CUST10298,SESS20298,PROD579,Fashion,Desktop,Social Media,Returning Visitor,136.0,1.0,6,8,1,1,39.3,1,0,20.81,14,7,0
+CUST10299,SESS20299,PROD185,Home & Kitchen,Mobile,Social Media,Returning Visitor,486.0,2.0,2,3,1,2,22.0,1,1,57.26,1,2,0
+CUST10300,SESS20300,PROD574,Electronics,Desktop,Organic Search,Guest,130.0,4.0,4,6,0,2,5.0,0,1,36.86,23,1,0
+CUST10301,SESS20301,PROD403,Fashion,Mobile,Organic Search,Returning Visitor,461.0,10.0,4,7,1,1,50.8,1,0,35.84,22,1,1
+CUST10302,SESS20302,PROD377,Beauty,Mobile,Direct,Returning Visitor,166.0,10.0,1,3,0,1,37.9,1,0,38.15,7,2,0
+CUST10303,SESS20303,PROD669,Fashion,Tablet,Social Media,New Visitor,389.0,11.0,3,7,1,2,43.3,3,0,91.54,17,3,1
+CUST10304,,PROD605,Books,Mobile,Direct,New Visitor,148.0,11.0,4,5,0,4,57.5,1,1,55.65,1,4,0
+CUST10305,SESS20305,PROD871,Books,Desktop,Social Media,Returning Visitor,63.0,7.0,8,11,1,1,41.4,2,0,37.65,15,2,1
+CUST10306,SESS20306,PROD359,Beauty,Desktop,Organic Search,New Visitor,298.0,9.0,1,7,1,4,16.0,4,1,31.66,17,7,1
+CUST10307,SESS20307,PROD562,Fashion,Tablet,Direct,New Visitor,178.0,8.0,4,6,1,0,51.4,2,0,76.44,8,1,1
+CUST10308,SESS20308,PROD887,Fashion,Mobile,Organic Search,New Visitor,98.0,4.0,4,8,0,2,14.1,0,0,29.66,10,6,1
+CUST10309,SESS20309,PROD672,Books,Mobile,Social Media,New Visitor,267.0,12.0,2,6,0,2,49.4,1,0,76.79,1,2,1
+CUST10310,SESS20310,PROD571,Books,Tablet,Organic Search,New Visitor,94.0,8.0,1,4,0,2,34.5,2,0,21.33,15,4,0
+CUST10311,SESS20311,PROD375,Home & Kitchen,Tablet,Social Media,New Visitor,314.0,6.0,4,5,1,0,45.5,3,0,39.93,1,3,1
+CUST10312,SESS20312,PROD225,Electronics,Desktop,Social Media,Returning Visitor,198.0,5.0,2,6,1,2,17.4,1,0,27.31,23,1,0
+CUST10313,SESS20313,PROD191,Sports,Desktop,Paid Ads,New Visitor,11.0,6.0,2,4,0,1,28.2,2,1,26.08,1,2,1
+CUST10314,SESS20314,PROD306,Fashion,Mobile,Social Media,Guest,269.0,8.0,2,3,1,0,34.6,0,1,161.4,1,2,0
+CUST10315,SESS20315,PROD956,Fashion,Mobile,Direct,New Visitor,450.0,3.0,4,7,0,2,72.3,1,0,21.13,7,5,0
+CUST10316,SESS20316,PROD993,Books,Mobile,Organic Search,Returning Visitor,121.0,6.0,0,0,1,2,47.5,0,0,80.37,18,6,0
+CUST10317,SESS20317,PROD228,Fashion,Mobile,Paid Ads,Returning Visitor,184.0,6.0,4,9,0,2,21.6,2,1,78.03,10,6,0
+CUST10318,SESS20318,PROD313,Fashion,Mobile,Social Media,New Visitor,174.0,9.0,2,2,0,0,26.6,2,0,48.17,0,6,0
+CUST10319,SESS20319,PROD583,Books,Mobile,Paid Ads,Guest,263.0,6.0,3,6,0,0,38.4,0,1,65.83,18,7,0
+CUST10320,SESS20320,PROD420,Electronics,Tablet,Direct,Returning Visitor,542.0,4.0,2,5,0,5,31.5,1,0,86.6,15,3,1
+CUST10321,SESS20321,PROD823,Books,Mobile,Paid Ads,New Visitor,217.0,4.0,3,4,0,2,57.0,0,1,74.58,17,1,0
+CUST10322,SESS20322,PROD145,Fashion,Mobile,Organic Search,Returning Visitor,98.0,7.0,2,5,1,1,26.8,1,0,15.13,23,5,0
+CUST10323,SESS20323,PROD862,Fashion,Mobile,Email,Guest,189.0,4.0,2,5,0,3,38.8,1,1,82.13,18,7,0
+CUST10324,SESS20324,PROD686,Electronics,Mobile,Social Media,New Visitor,72.0,7.0,4,6,0,0,46.2,1,1,51.59,2,5,1
+CUST10325,SESS20325,PROD877,Books,Tablet,Email,Returning Visitor,449.0,6.0,3,4,0,1,20.4,4,0,106.14,1,5,0
+CUST10326,SESS20326,PROD840,Beauty,Mobile,Paid Ads,Guest,255.0,7.0,1,3,0,2,37.1,1,0,73.86,4,6,0
+CUST10327,SESS20327,PROD186,Books,Mobile,Organic Search,New Visitor,568.0,4.0,1,2,1,3,37.4,0,1,50.65,21,3,0
+CUST10328,SESS20328,PROD422,Sports,Mobile,Paid Ads,New Visitor,670.0,5.0,1,2,0,1,81.1,1,0,25.01,15,7,0
+CUST10329,SESS20329,PROD718,Electronics,Mobile,Direct,New Visitor,212.0,7.0,4,5,0,0,37.3,0,0,31.51,14,2,0
+CUST10330,SESS20330,PROD130,Books,Desktop,Social Media,New Visitor,455.0,6.0,1,3,0,2,56.5,1,0,49.57,4,6,0
+CUST10331,SESS20331,PROD908,Beauty,Mobile,Organic Search,Returning Visitor,198.0,7.0,3,5,1,0,41.7,1,1,74.8,12,2,0
+CUST10332,SESS20332,PROD491,Beauty,Mobile,Email,New Visitor,192.0,5.0,2,3,0,1,32.7,1,1,214.54,5,5,0
+CUST10333,SESS20333,PROD823,Fashion,Mobile,Social Media,Guest,187.0,3.0,5,6,0,0,38.9,0,0,43.83,5,5,0
+CUST10334,SESS20334,PROD797,Books,Mobile,Email,Guest,573.0,6.0,3,4,0,1,89.2,1,0,28.03,23,6,1
+CUST10335,SESS20335,PROD192,Home & Kitchen,Mobile,Social Media,Guest,34.0,6.0,4,6,0,2,8.6,0,1,41.37,15,2,1
+CUST10336,SESS20336,PROD975,Electronics,Mobile,Email,New Visitor,265.0,5.0,2,4,0,1,13.2,3,0,115.3,3,1,0
+CUST10337,SESS20337,PROD295,Home & Kitchen,Tablet,Paid Ads,New Visitor,371.0,7.0,5,6,0,3,37.8,1,0,50.77,17,1,0
+CUST10338,SESS20338,PROD728,Electronics,Mobile,Email,New Visitor,296.0,5.0,2,2,0,2,49.8,1,0,28.71,4,4,0
+CUST10339,SESS20339,PROD401,Electronics,Mobile,Organic Search,Returning Visitor,106.0,10.0,3,7,2,4,53.1,3,0,44.62,12,5,0
+CUST10340,SESS20340,PROD778,Fashion,Desktop,Organic Search,Guest,408.0,7.0,4,6,1,3,73.3,1,0,33.56,19,6,0
+CUST10341,SESS20341,PROD595,Home & Kitchen,Tablet,Paid Ads,Returning Visitor,277.0,7.0,6,8,1,3,36.0,0,0,117.15,3,1,0
+CUST10342,SESS20342,PROD865,Books,Mobile,Paid Ads,New Visitor,156.0,11.0,6,8,0,0,,2,0,41.12,5,1,0
+CUST10343,SESS20343,PROD794,Sports,Mobile,Organic Search,Returning Visitor,141.0,9.0,6,6,1,3,49.2,1,0,29.72,12,4,0
+CUST10344,SESS20344,PROD187,Electronics,Mobile,Social Media,Returning Visitor,233.0,7.0,2,4,0,2,24.3,0,0,161.82,0,1,0
+CUST10345,,PROD260,Beauty,Tablet,Email,Returning Visitor,289.0,7.0,1,2,0,3,12.9,1,1,29.23,7,4,0
+CUST10346,SESS20346,PROD843,Sports,Desktop,Social Media,New Visitor,156.0,3.0,1,1,1,2,27.0,3,0,161.55,12,7,0
+CUST10347,SESS20347,PROD621,Fashion,Desktop,Email,Guest,320.0,6.0,5,5,0,2,58.3,1,0,21.51,0,5,0
+CUST10348,SESS20348,PROD719,Electronics,Mobile,Organic Search,New Visitor,101.0,8.0,2,4,0,1,60.5,1,1,37.29,21,2,0
+CUST10349,SESS20349,PROD837,Electronics,Desktop,Paid Ads,Guest,268.0,4.0,6,7,0,1,60.1,1,1,40.96,6,5,0
+CUST10350,SESS20350,PROD744,Fashion,Desktop,Social Media,Returning Visitor,214.0,8.0,4,5,0,4,43.8,2,0,58.4,5,2,0
+CUST10351,SESS20351,PROD741,Home & Kitchen,Mobile,Paid Ads,Returning Visitor,612.0,7.0,2,5,0,1,19.1,0,0,61.28,14,3,1
+CUST10352,SESS20352,PROD970,Home & Kitchen,Mobile,Direct,Returning Visitor,273.0,3.0,4,7,1,2,35.4,0,0,164.82,9,3,0
+CUST10353,SESS20353,PROD642,Home & Kitchen,Mobile,Organic Search,New Visitor,830.0,4.0,6,9,0,0,16.7,0,0,91.21,2,7,0
+CUST10354,SESS20354,PROD394,Electronics,Desktop,Social Media,New Visitor,124.0,10.0,5,8,0,1,24.9,2,0,30.43,20,1,0
+CUST10355,SESS20355,PROD201,Books,Mobile,,New Visitor,107.0,10.0,0,3,0,0,34.2,3,0,26.69,1,5,0
+CUST10356,SESS20356,PROD684,Fashion,Mobile,Paid Ads,Returning Visitor,254.0,7.0,4,7,0,0,60.0,1,0,39.79,3,7,1
+CUST10357,SESS20357,PROD441,Beauty,Desktop,Social Media,New Visitor,183.0,4.0,4,6,0,1,61.4,0,0,36.61,13,7,0
+CUST10358,SESS20358,PROD919,Fashion,Mobile,Organic Search,Returning Visitor,354.0,2.0,5,6,1,0,44.4,1,0,46.55,10,4,0
+CUST10359,SESS20359,PROD995,Sports,Mobile,Paid Ads,New Visitor,180.0,2.0,2,4,0,2,29.6,0,0,128.13,20,3,0
+CUST10360,SESS20360,PROD418,Sports,Mobile,Paid Ads,Guest,36.0,7.0,1,3,1,1,43.2,1,1,34.72,10,6,1
+CUST10361,SESS20361,PROD942,Electronics,Mobile,Paid Ads,Guest,262.0,5.0,0,1,2,3,23.0,0,0,69.43,14,5,0
+CUST10362,SESS20362,PROD631,Home & Kitchen,Mobile,Organic Search,Returning Visitor,116.0,,4,8,0,1,27.2,0,0,41.23,14,5,0
+CUST10363,SESS20363,PROD629,Electronics,Mobile,Email,Returning Visitor,413.0,8.0,1,4,0,1,57.6,0,0,206.53,4,6,0
+CUST10364,SESS20364,PROD401,Fashion,Mobile,Email,Guest,313.0,5.0,2,2,1,0,64.8,1,0,91.19,17,2,0
+CUST10365,SESS20365,PROD375,Beauty,Mobile,Direct,Guest,247.0,6.0,2,3,0,1,41.8,2,0,110.41,17,1,0
+CUST10366,SESS20366,PROD220,Electronics,Tablet,Social Media,Guest,344.0,3.0,3,8,0,1,50.4,1,1,74.65,22,4,0
+CUST10367,SESS20367,PROD126,Home & Kitchen,Desktop,Direct,New Visitor,100.0,6.0,2,2,0,3,41.5,1,0,49.09,4,4,0
+CUST10368,SESS20368,PROD320,Beauty,Desktop,Social Media,New Visitor,193.0,5.0,5,10,0,3,25.5,0,0,232.29,14,2,0
+CUST10369,SESS20369,PROD710,Beauty,Desktop,Social Media,Returning Visitor,209.0,7.0,3,4,0,3,14.2,2,1,56.19,14,6,0
+CUST10370,SESS20370,PROD879,Sports,Desktop,Social Media,New Visitor,393.0,8.0,3,5,0,2,52.4,1,0,51.78,7,1,1
+CUST10371,SESS20371,PROD401,Fashion,Desktop,Email,New Visitor,43.0,12.0,3,7,1,2,28.6,2,1,30.61,7,7,1
+CUST10372,SESS20372,PROD512,Sports,Mobile,Organic Search,Returning Visitor,133.0,5.0,6,7,0,0,35.8,2,0,25.17,8,4,0
+CUST10373,SESS20373,PROD866,Electronics,Desktop,Organic Search,Guest,191.0,9.0,1,5,0,2,51.3,1,1,126.28,11,1,0
+CUST10374,SESS20374,PROD569,Electronics,Desktop,Social Media,Returning Visitor,308.0,7.0,0,2,1,2,8.7,2,0,50.52,22,2,1
+CUST10375,SESS20375,PROD296,Beauty,Tablet,Organic Search,Guest,524.0,3.0,3,6,0,1,29.2,1,1,39.06,23,1,0
+CUST10376,SESS20376,PROD375,Sports,Mobile,Social Media,Returning Visitor,264.0,4.0,2,3,0,3,32.8,2,0,19.98,15,7,1
+CUST10377,SESS20377,PROD754,Electronics,Mobile,Organic Search,,350.0,2.0,4,6,2,3,39.8,1,0,27.08,7,2,0
+CUST10378,SESS20378,PROD504,Home & Kitchen,Mobile,Organic Search,New Visitor,62.0,8.0,1,1,2,1,26.0,2,0,93.85,5,5,0
+CUST10379,SESS20379,PROD889,Beauty,Mobile,Organic Search,Returning Visitor,,9.0,3,6,1,3,53.1,2,1,99.42,8,7,1
+CUST10380,SESS20380,PROD849,Home & Kitchen,Mobile,Social Media,Returning Visitor,117.0,10.0,1,3,1,4,29.4,3,0,88.89,11,7,1
+CUST10381,SESS20381,PROD182,Beauty,Desktop,Paid Ads,New Visitor,194.0,6.0,6,7,1,1,47.3,2,0,95.88,11,3,1
+CUST10382,SESS20382,PROD187,Beauty,Tablet,Social Media,Returning Visitor,203.0,3.0,0,0,1,2,45.1,2,0,124.32,21,1,0
+CUST10383,SESS20383,PROD991,Electronics,Mobile,Email,New Visitor,131.0,5.0,2,2,0,1,47.9,0,0,59.54,14,7,0
+CUST10384,SESS20384,PROD241,Sports,Mobile,Paid Ads,New Visitor,313.0,,1,3,0,0,35.5,1,0,110.06,2,6,0
+CUST10385,SESS20385,PROD940,Electronics,Desktop,Direct,Returning Visitor,220.0,5.0,2,4,1,3,40.6,0,0,33.62,18,3,1
+CUST10386,SESS20386,PROD500,Home & Kitchen,Mobile,Paid Ads,New Visitor,196.0,,3,4,0,2,82.5,0,1,53.43,2,2,0
+CUST10387,SESS20387,PROD735,Home & Kitchen,Mobile,Social Media,New Visitor,155.0,2.0,4,7,0,1,32.1,1,1,31.44,2,6,0
+CUST10388,SESS20388,PROD994,Books,Mobile,Paid Ads,Returning Visitor,80.0,5.0,5,8,2,1,29.1,0,1,46.89,23,7,1
+CUST10389,SESS20389,PROD416,Home & Kitchen,Mobile,Direct,Returning Visitor,308.0,6.0,4,4,0,2,36.3,1,0,101.24,8,1,0
+CUST10390,SESS20390,PROD889,Sports,Desktop,Social Media,New Visitor,342.0,10.0,2,3,0,1,40.1,0,0,29.72,10,2,0
+CUST10391,SESS20391,PROD416,Books,Desktop,Organic Search,Guest,434.0,2.0,2,3,1,4,40.8,2,0,105.09,10,6,0
+CUST10392,SESS20392,PROD225,Electronics,Mobile,Organic Search,New Visitor,180.0,3.0,2,3,2,4,36.0,0,1,52.82,19,1,0
+CUST10393,SESS20393,PROD547,Sports,Mobile,Social Media,Guest,371.0,7.0,4,7,0,1,45.7,1,0,28.95,5,6,0
+CUST10394,SESS20394,PROD113,Fashion,Mobile,Paid Ads,Guest,104.0,9.0,0,1,0,0,63.6,2,0,190.15,4,4,0
+CUST10395,SESS20395,PROD669,Fashion,Mobile,Email,Returning Visitor,600.0,7.0,4,6,0,3,39.1,3,1,175.79,19,3,0
+CUST10396,SESS20396,PROD904,Home & Kitchen,Mobile,Paid Ads,New Visitor,82.0,4.0,4,5,0,2,25.4,1,0,66.47,15,6,0
+CUST10397,SESS20397,PROD347,Beauty,Desktop,Email,Guest,214.0,8.0,1,2,0,0,28.4,3,1,45.04,2,2,0
+CUST10398,SESS20398,PROD599,Beauty,Mobile,Email,Returning Visitor,488.0,10.0,3,3,1,3,41.9,1,1,44.86,18,2,1
+CUST10399,SESS20399,PROD731,Books,Mobile,Paid Ads,New Visitor,140.0,10.0,1,3,0,2,18.3,0,1,24.27,8,7,0
+CUST10400,SESS20400,PROD189,Sports,Mobile,Social Media,Guest,65.0,4.0,3,3,0,4,28.3,2,1,20.4,9,5,0
+CUST10401,SESS20401,PROD325,Electronics,Mobile,Paid Ads,New Visitor,92.0,2.0,4,6,0,1,37.0,0,1,30.44,19,4,1
+CUST10402,SESS20402,PROD100,Books,Desktop,,New Visitor,177.0,1.0,8,10,1,1,43.3,2,1,119.53,20,4,0
+CUST10403,SESS20403,PROD118,Beauty,Mobile,Social Media,Returning Visitor,20.0,5.0,1,2,0,1,5.0,2,1,33.21,18,7,0
+CUST10404,SESS20404,PROD108,Fashion,Desktop,Email,Guest,382.0,,1,1,1,1,44.1,0,1,44.76,7,7,0
+CUST10405,SESS20405,PROD416,Electronics,Mobile,Direct,Returning Visitor,146.0,5.0,6,8,1,4,5.0,3,1,325.62,13,7,1
+CUST10406,,PROD870,Books,Mobile,Direct,New Visitor,118.0,6.0,3,4,0,1,42.6,1,0,58.69,5,2,0
+CUST10407,SESS20407,PROD713,Beauty,Mobile,Email,Guest,299.0,5.0,8,9,1,2,27.9,0,0,81.5,20,1,0
+CUST10408,SESS20408,PROD789,Beauty,Desktop,Direct,New Visitor,37.0,8.0,5,7,0,2,51.4,1,0,36.69,19,3,1
+CUST10409,SESS20409,PROD454,Home & Kitchen,Mobile,Social Media,New Visitor,449.0,7.0,1,3,1,1,43.7,2,1,56.69,1,3,1
+CUST10410,SESS20410,PROD104,Sports,Mobile,Organic Search,New Visitor,138.0,6.0,0,2,0,2,48.0,2,1,69.74,3,4,0
+CUST10411,SESS20411,PROD260,Sports,Tablet,Email,Returning Visitor,48.0,5.0,4,6,1,3,51.5,2,0,45.48,7,5,0
+CUST10412,SESS20412,PROD503,Electronics,Desktop,Direct,Returning Visitor,61.0,2.0,4,5,0,1,45.3,0,1,39.75,5,6,0
+CUST10413,SESS20413,PROD804,Home & Kitchen,Mobile,Direct,Returning Visitor,38.0,7.0,2,4,2,0,50.2,2,1,64.05,20,1,1
+CUST10414,SESS20414,PROD191,Sports,Tablet,Email,Returning Visitor,222.0,6.0,6,11,0,2,32.5,1,1,25.86,7,3,1
+CUST10415,SESS20415,PROD920,Fashion,Mobile,Paid Ads,Guest,68.0,9.0,5,5,2,2,76.0,1,0,30.13,22,4,1
+CUST10416,SESS20416,PROD555,Electronics,Desktop,Social Media,New Visitor,430.0,6.0,2,2,0,3,15.8,0,0,69.83,20,7,0
+CUST10417,SESS20417,PROD777,Books,Mobile,Organic Search,Guest,109.0,8.0,5,9,1,0,21.6,0,0,80.04,15,2,1
+CUST10418,SESS20418,PROD275,Electronics,Mobile,Direct,New Visitor,151.0,4.0,4,5,0,2,27.8,0,0,31.32,1,4,0
+CUST10419,SESS20419,PROD908,Electronics,Desktop,Direct,Returning Visitor,303.0,,2,3,1,2,17.7,2,1,160.15,13,5,0
+CUST10420,SESS20420,PROD808,Fashion,Mobile,Direct,New Visitor,638.0,6.0,1,2,0,1,10.3,0,1,44.73,4,7,1
+CUST10421,SESS20421,PROD511,Books,Tablet,Paid Ads,New Visitor,145.0,11.0,7,8,2,1,25.3,0,0,123.1,21,3,0
+CUST10422,SESS20422,PROD168,Fashion,Mobile,Paid Ads,Returning Visitor,262.0,7.0,3,8,0,0,48.8,1,0,27.26,3,7,1
+CUST10423,SESS20423,PROD803,Fashion,Tablet,,New Visitor,120.0,6.0,4,9,0,2,46.0,2,0,108.53,18,3,0
+CUST10424,SESS20424,PROD630,Electronics,Desktop,Direct,Guest,303.0,3.0,4,5,0,2,76.4,2,0,31.07,8,5,1
+CUST10425,SESS20425,PROD551,Books,Mobile,Direct,New Visitor,227.0,6.0,0,2,1,2,29.9,1,1,77.99,19,6,0
+CUST10426,SESS20426,PROD209,Beauty,Tablet,Organic Search,New Visitor,452.0,9.0,4,8,1,3,51.7,0,0,41.83,10,3,0
+CUST10427,SESS20427,PROD458,Books,Desktop,Social Media,Guest,365.0,8.0,1,2,0,0,25.1,1,0,28.15,22,2,0
+CUST10428,SESS20428,PROD997,Fashion,Mobile,Social Media,New Visitor,227.0,7.0,5,10,0,1,53.0,1,1,43.66,14,4,0
+CUST10429,SESS20429,PROD805,Fashion,Mobile,Email,Returning Visitor,635.0,8.0,5,7,0,1,44.4,0,1,36.67,7,2,0
+CUST10430,SESS20430,PROD255,Beauty,Mobile,Social Media,Guest,200.0,8.0,3,4,0,1,62.8,0,0,237.7,0,3,0
+CUST10431,SESS20431,PROD454,Books,Mobile,Organic Search,New Visitor,247.0,9.0,2,2,0,2,56.5,1,1,141.63,15,2,0
+CUST10432,SESS20432,PROD682,Home & Kitchen,Desktop,Organic Search,Returning Visitor,695.0,5.0,3,3,0,0,40.2,1,0,117.63,9,4,0
+CUST10433,SESS20433,PROD944,Fashion,Mobile,Organic Search,Returning Visitor,98.0,6.0,1,6,1,0,28.8,1,0,98.98,9,3,0
+CUST10434,SESS20434,PROD962,Home & Kitchen,Desktop,Email,Guest,289.0,7.0,2,5,1,3,48.2,3,1,157.59,21,7,1
+CUST10435,SESS20435,PROD860,Beauty,Tablet,Social Media,New Visitor,157.0,9.0,7,10,2,1,48.3,1,0,42.65,0,2,1
+CUST10436,SESS20436,PROD914,Home & Kitchen,Mobile,Direct,Returning Visitor,218.0,6.0,5,7,0,1,48.4,0,0,21.46,10,6,0
+CUST10437,SESS20437,PROD286,Electronics,Desktop,Social Media,Returning Visitor,251.0,7.0,5,8,0,1,31.8,0,0,90.03,0,7,0
+CUST10438,SESS20438,PROD181,Beauty,Mobile,Paid Ads,Returning Visitor,208.0,10.0,4,5,1,1,24.2,4,1,47.78,9,1,0
+CUST10439,SESS20439,PROD761,Books,Mobile,Direct,New Visitor,320.0,5.0,4,6,0,3,13.2,0,1,166.45,23,4,1
+CUST10440,SESS20440,PROD683,Home & Kitchen,Tablet,Direct,New Visitor,256.0,8.0,1,2,1,1,8.4,1,0,99.95,14,4,0
+CUST10441,SESS20441,PROD964,Beauty,Mobile,Social Media,Returning Visitor,112.0,4.0,2,5,1,1,60.5,1,0,87.76,18,3,0
+CUST10442,SESS20442,PROD407,Home & Kitchen,Desktop,Organic Search,New Visitor,252.0,6.0,4,5,0,2,67.0,3,1,74.79,6,5,0
+CUST10443,SESS20443,PROD992,Home & Kitchen,Desktop,Direct,Guest,350.0,4.0,0,2,0,1,50.4,1,1,129.62,15,7,0
+CUST10444,SESS20444,PROD270,Electronics,Mobile,Direct,New Visitor,166.0,7.0,3,7,0,1,29.5,1,1,16.58,8,5,1
+CUST10445,SESS20445,PROD841,Beauty,Desktop,Paid Ads,New Visitor,382.0,6.0,3,5,0,0,31.0,0,0,33.02,22,4,0
+CUST10446,SESS20446,PROD602,Beauty,Desktop,Direct,New Visitor,152.0,4.0,4,6,1,2,,1,0,57.58,3,2,0
+CUST10447,SESS20447,PROD586,Electronics,Mobile,Direct,Guest,362.0,6.0,3,4,0,2,41.9,1,1,24.41,1,4,0
+CUST10448,SESS20448,PROD449,Electronics,Mobile,Email,Guest,651.0,4.0,1,6,0,0,94.0,0,0,40.4,11,3,0
+CUST10449,SESS20449,PROD274,Electronics,Mobile,Paid Ads,New Visitor,117.0,7.0,1,2,0,1,48.5,1,0,58.33,16,7,0
+CUST10450,SESS20450,PROD805,Electronics,Mobile,Paid Ads,New Visitor,126.0,1.0,6,8,1,2,,2,1,90.85,0,1,0
+CUST10451,SESS20451,PROD633,Sports,Mobile,Social Media,Returning Visitor,261.0,5.0,1,3,0,1,20.7,2,1,134.56,3,6,0
+CUST10452,SESS20452,PROD823,Fashion,Mobile,Social Media,New Visitor,441.0,3.0,2,3,0,0,43.1,1,1,211.23,7,3,0
+CUST10453,SESS20453,PROD762,Electronics,Desktop,Organic Search,New Visitor,103.0,8.0,1,4,0,0,32.3,0,0,130.15,8,3,1
+CUST10454,SESS20454,PROD769,Beauty,Desktop,Social Media,Returning Visitor,171.0,4.0,2,6,0,2,55.9,2,0,10.9,2,1,0
+CUST10455,SESS20455,PROD602,Fashion,Mobile,Organic Search,Returning Visitor,127.0,3.0,5,5,0,2,6.3,3,1,13.84,13,7,1
+CUST10456,SESS20456,PROD945,Beauty,Desktop,Direct,New Visitor,69.0,3.0,6,7,0,1,30.5,0,0,87.04,10,2,0
+CUST10457,SESS20457,PROD389,Books,Mobile,Organic Search,Returning Visitor,528.0,4.0,2,3,1,3,10.7,1,0,145.55,23,5,0
+CUST10458,SESS20458,PROD501,Electronics,Mobile,Social Media,New Visitor,305.0,5.0,2,2,1,0,11.4,2,1,68.69,2,7,0
+CUST10459,SESS20459,PROD489,Fashion,Mobile,Social Media,Returning Visitor,56.0,2.0,2,2,0,2,43.0,4,0,40.63,15,1,1
+CUST10460,SESS20460,PROD866,Electronics,Mobile,Organic Search,Guest,247.0,3.0,2,3,1,0,26.1,2,1,51.01,8,4,1
+CUST10461,SESS20461,PROD497,Electronics,Mobile,Organic Search,Returning Visitor,416.0,12.0,1,2,1,2,5.0,1,0,48.22,23,7,0
+CUST10462,SESS20462,PROD709,Electronics,Mobile,Social Media,Returning Visitor,289.0,4.0,4,6,0,1,57.0,2,1,18.45,21,3,0
+CUST10463,SESS20463,PROD814,Sports,Desktop,Paid Ads,Returning Visitor,329.0,4.0,1,3,0,3,32.4,0,1,29.89,3,6,0
+CUST10464,SESS20464,PROD386,Fashion,Mobile,Paid Ads,Returning Visitor,101.0,4.0,3,5,1,0,41.0,1,0,179.11,10,5,1
+CUST10465,SESS20465,PROD801,Home & Kitchen,Mobile,Paid Ads,New Visitor,257.0,5.0,2,5,0,2,31.4,0,0,42.7,20,7,0
+CUST10466,SESS20466,PROD173,Fashion,Desktop,Social Media,Returning Visitor,415.0,12.0,5,6,1,2,58.2,2,0,38.59,12,1,1
+CUST10467,SESS20467,PROD224,Fashion,Desktop,Paid Ads,Returning Visitor,203.0,7.0,4,11,1,0,47.2,0,1,85.16,20,2,1
+CUST10468,SESS20468,PROD430,Beauty,Desktop,Organic Search,Guest,,6.0,4,6,1,2,60.4,1,0,37.64,21,5,0
+CUST10469,SESS20469,PROD630,Electronics,Mobile,Paid Ads,Returning Visitor,156.0,3.0,1,1,2,2,19.0,0,1,18.79,0,7,0
+CUST10470,SESS20470,PROD717,Home & Kitchen,Mobile,Organic Search,Guest,255.0,7.0,2,5,1,2,36.0,0,1,198.57,0,1,0
+CUST10471,SESS20471,PROD763,Books,Mobile,Organic Search,New Visitor,908.0,10.0,3,4,0,1,30.4,0,0,56.68,17,4,0
+CUST10472,SESS20472,PROD300,Beauty,Desktop,Organic Search,New Visitor,160.0,9.0,6,8,1,0,18.4,2,0,44.84,21,3,1
+CUST10473,SESS20473,PROD633,Home & Kitchen,Desktop,Direct,Guest,459.0,8.0,5,5,0,0,80.1,3,0,34.39,22,2,0
+CUST10474,SESS20474,PROD304,Fashion,Desktop,Organic Search,New Visitor,152.0,9.0,1,4,1,1,54.3,3,0,26.87,5,4,0
+CUST10475,SESS20475,PROD735,Fashion,Desktop,Paid Ads,Returning Visitor,475.0,8.0,3,5,1,1,31.8,1,0,41.59,15,2,0
+CUST10476,SESS20476,PROD156,Sports,Tablet,Organic Search,Returning Visitor,108.0,4.0,2,3,0,2,45.4,3,0,88.18,11,3,0
+CUST10477,SESS20477,PROD483,Electronics,Mobile,Direct,New Visitor,438.0,5.0,4,5,0,1,27.9,2,0,136.99,14,7,1
+CUST10478,SESS20478,PROD539,Electronics,Mobile,Paid Ads,Guest,455.0,5.0,1,2,0,3,35.7,0,0,35.1,14,6,0
+CUST10479,SESS20479,PROD970,Electronics,Mobile,Direct,Returning Visitor,200.0,8.0,6,9,1,1,13.4,1,0,28.19,14,7,1
+CUST10480,SESS20480,PROD706,Books,Desktop,Direct,New Visitor,405.0,4.0,4,6,1,1,46.2,0,0,58.56,21,6,0
+CUST10481,SESS20481,PROD571,Books,Desktop,Email,Guest,83.0,5.0,2,3,0,2,58.6,0,0,154.62,3,1,0
+CUST10482,SESS20482,PROD394,Sports,Mobile,Social Media,New Visitor,128.0,6.0,3,3,0,0,27.5,0,1,25.78,20,2,0
+CUST10483,SESS20483,PROD482,Books,Mobile,Organic Search,Returning Visitor,62.0,9.0,5,6,0,0,31.3,1,0,110.21,2,3,1
+CUST10484,SESS20484,PROD983,Electronics,Desktop,Organic Search,Returning Visitor,217.0,5.0,2,3,0,2,16.6,2,1,33.87,4,5,0
+CUST10485,SESS20485,PROD169,Fashion,Desktop,Paid Ads,Returning Visitor,361.0,4.0,0,0,1,2,5.0,2,0,45.72,1,6,0
+CUST10486,SESS20486,PROD819,Home & Kitchen,Mobile,Paid Ads,New Visitor,251.0,9.0,2,4,0,3,15.1,4,1,104.29,15,6,0
+CUST10487,SESS20487,PROD902,Electronics,Mobile,,Returning Visitor,66.0,5.0,1,5,1,3,51.6,0,1,10.66,5,7,0
+CUST10488,SESS20488,PROD788,Home & Kitchen,Mobile,Organic Search,New Visitor,153.0,5.0,5,6,0,3,,2,0,50.62,0,5,0
+CUST10489,SESS20489,PROD125,Books,Desktop,Organic Search,New Visitor,206.0,3.0,3,4,0,2,31.0,0,0,238.13,0,5,0
+CUST10490,SESS20490,PROD620,Home & Kitchen,Mobile,Organic Search,Returning Visitor,219.0,7.0,3,4,1,0,41.6,0,0,91.47,17,3,1
+CUST10491,SESS20491,PROD237,Home & Kitchen,Mobile,Paid Ads,Returning Visitor,364.0,8.0,1,2,0,0,39.4,1,0,30.14,15,5,1
+CUST10492,SESS20492,PROD509,Electronics,Desktop,Social Media,New Visitor,156.0,4.0,3,5,0,1,39.4,0,0,30.09,11,7,1
+CUST10493,SESS20493,PROD293,Electronics,Mobile,Direct,Returning Visitor,494.0,7.0,5,12,0,1,9.8,5,0,139.22,10,5,0
+CUST10494,SESS20494,PROD165,Beauty,Mobile,Social Media,New Visitor,313.0,4.0,2,3,1,1,13.5,1,0,58.59,5,2,0
+CUST10495,SESS20495,PROD455,Fashion,Desktop,Social Media,Guest,335.0,6.0,3,5,0,2,31.5,2,0,25.49,22,7,1
+CUST10496,SESS20496,PROD133,Books,Desktop,Organic Search,Returning Visitor,83.0,5.0,1,3,0,0,8.8,1,1,25.52,10,4,0
+CUST10497,SESS20497,PROD544,Home & Kitchen,Desktop,Social Media,Returning Visitor,179.0,2.0,4,6,1,1,47.3,2,0,49.93,17,7,0
+CUST10498,SESS20498,PROD908,Fashion,Mobile,Paid Ads,Guest,98.0,6.0,3,3,1,1,35.5,3,0,214.16,21,4,0
+CUST10499,SESS20499,PROD431,Electronics,Mobile,,New Visitor,307.0,7.0,4,10,0,2,37.4,2,1,15.98,6,3,1
+CUST10500,SESS20500,PROD834,Beauty,Tablet,Direct,Returning Visitor,61.0,5.0,1,3,1,2,14.8,1,1,63.49,18,7,0
+CUST10501,SESS20501,PROD912,Fashion,Tablet,Direct,Guest,97.0,10.0,1,3,0,3,28.7,2,0,47.67,8,2,0
+CUST10502,SESS20502,PROD514,Electronics,Mobile,Email,Returning Visitor,309.0,7.0,1,2,0,1,31.1,0,0,54.77,10,7,1
+CUST10503,SESS20503,PROD300,Electronics,Mobile,Organic Search,New Visitor,127.0,5.0,8,12,2,1,39.0,4,0,81.3,4,3,0
+CUST10504,SESS20504,PROD117,Sports,Tablet,Email,Returning Visitor,105.0,8.0,4,6,1,1,47.6,0,0,113.29,11,3,1
+CUST10505,SESS20505,PROD523,Fashion,Desktop,Paid Ads,New Visitor,69.0,3.0,3,5,2,3,39.4,1,0,20.25,2,7,0
+CUST10506,SESS20506,PROD109,Sports,Desktop,Organic Search,Returning Visitor,585.0,3.0,6,7,1,3,31.4,1,1,39.75,6,3,0
+CUST10507,SESS20507,PROD151,Fashion,Mobile,Paid Ads,Returning Visitor,57.0,6.0,1,1,1,4,28.7,1,0,85.93,12,2,0
+CUST10508,SESS20508,PROD942,Home & Kitchen,Mobile,Organic Search,New Visitor,101.0,10.0,2,4,1,2,35.1,3,1,65.46,19,2,1
+CUST10509,SESS20509,PROD533,Fashion,Desktop,Organic Search,Returning Visitor,10.0,6.0,0,3,1,2,24.8,2,0,138.72,4,3,1
+CUST10510,,PROD584,Sports,Mobile,Direct,Returning Visitor,63.0,,6,7,2,1,31.2,0,0,210.03,10,4,0
+CUST10511,SESS20511,PROD216,Beauty,Desktop,Social Media,New Visitor,241.0,9.0,2,4,1,2,49.2,0,1,76.46,21,7,1
+CUST10512,SESS20512,PROD827,Fashion,Mobile,Organic Search,New Visitor,189.0,7.0,8,8,2,1,29.1,1,0,76.88,18,4,1
+CUST10513,SESS20513,PROD786,Fashion,Mobile,Organic Search,Returning Visitor,,3.0,3,4,0,2,27.2,1,0,59.86,6,5,0
+CUST10514,SESS20514,PROD376,Fashion,Desktop,Paid Ads,Returning Visitor,219.0,5.0,2,3,0,1,60.2,0,0,80.59,3,2,0
+CUST10515,SESS20515,PROD234,Fashion,Desktop,Paid Ads,New Visitor,34.0,1.0,3,4,0,1,17.0,0,0,34.27,3,5,0
+CUST10516,SESS20516,PROD163,Fashion,Desktop,Social Media,New Visitor,202.0,3.0,3,6,0,4,39.1,3,0,125.68,20,6,0
+CUST10517,SESS20517,PROD379,Home & Kitchen,Desktop,Direct,Returning Visitor,,6.0,6,8,2,1,39.2,1,0,84.77,12,6,0
+CUST10518,SESS20518,PROD720,Fashion,Tablet,Direct,Returning Visitor,203.0,7.0,3,3,1,0,66.4,2,0,31.02,16,2,1
+CUST10519,SESS20519,PROD230,Electronics,Desktop,Social Media,Guest,136.0,6.0,2,3,0,2,19.5,1,0,96.63,17,5,0
+CUST10520,SESS20520,PROD316,Sports,Desktop,Organic Search,New Visitor,231.0,5.0,2,11,1,3,30.6,1,0,207.31,4,2,0
+CUST10521,SESS20521,PROD427,Home & Kitchen,Mobile,Organic Search,New Visitor,234.0,4.0,5,7,0,0,13.5,1,1,56.13,1,3,1
+CUST10522,SESS20522,PROD801,Electronics,Mobile,,Returning Visitor,354.0,9.0,0,2,0,1,60.4,2,0,75.17,12,4,0
+CUST10523,SESS20523,PROD498,Electronics,Desktop,Organic Search,New Visitor,393.0,6.0,2,6,0,1,5.0,1,0,60.66,14,7,0
+CUST10524,SESS20524,PROD188,Fashion,Mobile,Direct,Returning Visitor,148.0,3.0,1,3,2,1,41.6,4,1,25.19,20,7,0
+CUST10525,SESS20525,PROD224,Electronics,Desktop,Organic Search,New Visitor,433.0,6.0,0,2,0,1,38.9,0,0,37.06,21,6,0
+CUST10526,SESS20526,PROD829,Books,Desktop,Paid Ads,Guest,237.0,6.0,0,1,0,2,70.2,2,0,32.64,18,3,0
+CUST10527,SESS20527,PROD130,Fashion,Mobile,Direct,Returning Visitor,347.0,5.0,3,5,1,1,44.6,1,0,43.69,5,2,0
+CUST10528,SESS20528,PROD611,Electronics,Tablet,Organic Search,New Visitor,240.0,4.0,5,6,0,3,24.3,1,1,32.46,13,3,1
+CUST10529,SESS20529,PROD857,Electronics,Tablet,Social Media,Returning Visitor,93.0,5.0,1,4,0,3,31.5,0,0,42.15,9,4,1
+CUST10530,SESS20530,PROD360,Sports,Mobile,Organic Search,Guest,123.0,3.0,4,5,1,2,62.0,0,0,53.82,20,2,0
+CUST10531,SESS20531,PROD667,Fashion,Mobile,Organic Search,New Visitor,90.0,5.0,1,5,1,2,52.0,2,0,87.84,16,6,1
+CUST10532,SESS20532,PROD667,Sports,Mobile,Social Media,Guest,,4.0,0,2,0,1,49.8,2,1,60.81,20,3,0
+CUST10533,SESS20533,PROD107,Fashion,Mobile,Direct,Returning Visitor,129.0,5.0,1,1,0,2,,2,0,16.45,3,1,0
+CUST10534,SESS20534,PROD745,Books,Mobile,Organic Search,New Visitor,1121.0,10.0,2,4,0,2,32.8,0,1,67.08,17,6,1
+CUST10535,SESS20535,PROD468,Home & Kitchen,Desktop,Organic Search,New Visitor,159.0,6.0,1,4,2,2,32.2,0,0,133.87,15,4,0
+CUST10536,SESS20536,PROD401,Electronics,Mobile,Paid Ads,Returning Visitor,120.0,7.0,4,5,0,3,25.3,0,0,48.18,20,4,0
+CUST10537,SESS20537,PROD901,Beauty,Mobile,Direct,New Visitor,197.0,6.0,1,2,1,2,36.1,1,0,104.3,20,3,1
+CUST10538,SESS20538,PROD920,Electronics,Desktop,Organic Search,New Visitor,84.0,4.0,3,3,0,2,69.4,1,0,84.35,18,4,0
+CUST10539,SESS20539,PROD192,Beauty,Desktop,,New Visitor,153.0,4.0,6,8,0,1,57.4,1,0,99.02,13,7,0
+CUST10540,SESS20540,PROD243,Fashion,Tablet,Organic Search,New Visitor,258.0,4.0,0,3,0,3,44.2,0,1,126.29,21,3,0
+CUST10541,SESS20541,PROD404,Fashion,Desktop,Direct,Returning Visitor,,9.0,4,6,1,4,16.8,0,0,73.09,23,4,0
+CUST10542,SESS20542,PROD564,Fashion,Mobile,Direct,Returning Visitor,390.0,6.0,0,0,0,2,31.8,0,0,46.97,12,1,0
+CUST10543,SESS20543,PROD643,Home & Kitchen,Mobile,Social Media,Guest,477.0,4.0,5,6,1,4,14.7,2,1,44.11,17,2,1
+CUST10544,SESS20544,PROD789,Books,Desktop,Organic Search,Returning Visitor,306.0,5.0,3,5,1,2,60.7,1,1,87.36,12,5,0
+CUST10545,SESS20545,PROD767,Sports,Mobile,Organic Search,New Visitor,29.0,7.0,7,9,1,1,54.2,1,0,113.2,22,1,1
+CUST10546,SESS20546,PROD353,Fashion,Desktop,Email,Returning Visitor,,3.0,1,1,1,0,63.5,1,0,45.1,15,2,0
+CUST10547,,PROD500,Electronics,Desktop,Social Media,Returning Visitor,312.0,10.0,5,7,2,1,23.4,1,0,39.86,7,2,1
+CUST10548,SESS20548,PROD331,Fashion,Desktop,Direct,Returning Visitor,362.0,7.0,3,3,0,3,27.7,1,0,50.03,5,1,1
+CUST10549,SESS20549,PROD291,Fashion,Mobile,Social Media,Guest,219.0,7.0,3,10,1,3,58.4,1,0,118.73,18,5,0
+CUST10550,SESS20550,PROD758,Fashion,Tablet,Direct,Guest,609.0,5.0,3,6,0,0,26.5,0,0,18.48,6,1,0
+CUST10551,SESS20551,PROD222,Home & Kitchen,Tablet,Paid Ads,New Visitor,109.0,3.0,4,5,0,2,26.9,2,1,14.71,14,2,0
+CUST10552,SESS20552,PROD290,Electronics,Mobile,Email,Returning Visitor,223.0,3.0,4,5,0,0,13.2,2,0,59.16,15,4,1
+CUST10553,SESS20553,PROD335,Beauty,Mobile,Paid Ads,Returning Visitor,,4.0,1,2,0,2,58.0,0,0,107.4,1,2,0
+CUST10554,SESS20554,PROD691,Fashion,Mobile,Social Media,New Visitor,147.0,1.0,2,5,0,0,31.7,0,1,105.68,10,2,0
+CUST10555,SESS20555,PROD808,Home & Kitchen,Mobile,Social Media,New Visitor,24.0,4.0,4,8,0,2,62.1,1,0,20.49,14,1,0
+CUST10556,SESS20556,PROD744,Books,Mobile,Social Media,New Visitor,252.0,4.0,2,4,1,1,36.7,1,0,148.65,16,7,1
+CUST10557,SESS20557,PROD245,Home & Kitchen,Mobile,Direct,New Visitor,368.0,7.0,3,4,1,4,31.6,2,0,58.46,7,1,0
+CUST10558,SESS20558,PROD771,Home & Kitchen,Tablet,Social Media,Guest,581.0,7.0,0,2,0,2,74.1,1,0,48.47,20,3,0
+CUST10559,SESS20559,PROD807,Home & Kitchen,Desktop,Direct,Returning Visitor,91.0,3.0,3,5,1,1,72.6,3,0,60.8,8,5,1
+CUST10560,SESS20560,PROD471,Sports,Mobile,Paid Ads,New Visitor,193.0,4.0,2,4,0,0,29.8,1,0,22.86,5,7,0
+CUST10561,SESS20561,PROD284,Fashion,Mobile,Email,New Visitor,355.0,8.0,4,6,1,0,41.9,0,0,44.28,17,6,1
+CUST10562,SESS20562,PROD289,Beauty,Mobile,Email,Returning Visitor,532.0,9.0,5,5,1,2,22.2,2,1,34.77,7,3,1
+CUST10563,SESS20563,PROD904,Electronics,Mobile,Organic Search,New Visitor,96.0,12.0,1,3,0,0,46.1,1,0,24.26,7,7,0
+CUST10564,SESS20564,PROD406,Books,Mobile,Organic Search,New Visitor,377.0,6.0,4,8,1,0,50.2,2,0,153.32,22,1,1
+CUST10565,SESS20565,PROD146,Electronics,Mobile,Direct,Returning Visitor,248.0,4.0,4,5,0,9,39.6,0,1,113.34,21,4,0
+CUST10566,SESS20566,PROD128,Home & Kitchen,Mobile,Organic Search,New Visitor,343.0,7.0,2,4,0,0,66.7,3,0,185.13,5,4,1
+CUST10567,SESS20567,PROD918,Books,Desktop,Paid Ads,Returning Visitor,697.0,5.0,2,7,1,3,14.9,0,0,44.2,22,1,1
+CUST10568,SESS20568,PROD378,Fashion,Desktop,Email,New Visitor,117.0,4.0,4,10,0,2,18.0,0,1,55.58,2,2,0
+CUST10569,SESS20569,PROD378,Sports,Mobile,Paid Ads,New Visitor,,7.0,5,6,2,1,48.5,0,0,47.64,16,6,0
+CUST10570,SESS20570,PROD583,Fashion,Desktop,Organic Search,New Visitor,196.0,5.0,3,6,2,1,48.6,0,0,49.89,9,6,1
+CUST10571,SESS20571,PROD731,Electronics,Mobile,Paid Ads,New Visitor,147.0,5.0,0,0,0,0,37.1,2,0,60.57,6,3,0
+CUST10572,SESS20572,PROD184,Fashion,Mobile,Direct,New Visitor,235.0,2.0,3,6,0,1,40.9,0,0,70.22,15,2,0
+CUST10573,SESS20573,PROD427,Electronics,Mobile,Organic Search,Guest,71.0,10.0,2,5,0,0,43.3,1,1,57.24,7,1,0
+CUST10574,SESS20574,PROD684,Electronics,Desktop,Organic Search,New Visitor,182.0,7.0,3,5,0,1,5.0,4,1,48.75,8,6,1
+CUST10575,SESS20575,PROD274,Sports,Tablet,Organic Search,New Visitor,391.0,8.0,3,4,0,2,35.6,2,0,23.27,2,3,0
+CUST10576,SESS20576,PROD991,Fashion,Mobile,Direct,Guest,45.0,4.0,5,5,0,2,55.7,1,0,24.41,6,6,0
+CUST10577,SESS20577,PROD814,Beauty,Mobile,Direct,New Visitor,94.0,6.0,3,5,2,5,28.0,0,1,16.42,15,6,0
+CUST10578,SESS20578,PROD783,Home & Kitchen,Mobile,Direct,Guest,75.0,4.0,3,7,1,1,5.0,1,0,124.29,9,5,0
+CUST10579,SESS20579,PROD729,Fashion,Desktop,Paid Ads,Returning Visitor,145.0,6.0,3,6,0,1,62.1,1,0,28.39,13,2,1
+CUST10580,SESS20580,PROD536,Beauty,Mobile,Email,Returning Visitor,254.0,7.0,4,7,0,1,50.7,1,1,105.19,18,2,0
+CUST10581,SESS20581,PROD992,Fashion,Desktop,Paid Ads,Returning Visitor,163.0,3.0,2,2,1,4,39.1,0,0,12.93,0,4,0
+CUST10582,SESS20582,PROD827,Fashion,Tablet,Organic Search,Returning Visitor,127.0,6.0,2,5,0,0,,1,1,158.67,10,5,0
+CUST10583,SESS20583,PROD678,Home & Kitchen,Mobile,,Returning Visitor,195.0,10.0,5,5,0,0,44.3,0,1,105.68,6,5,0
+CUST10584,SESS20584,PROD579,Electronics,Desktop,Organic Search,Guest,333.0,3.0,4,4,0,1,40.5,1,1,47.25,9,5,0
+CUST10585,SESS20585,PROD249,Books,Mobile,Social Media,Guest,150.0,6.0,4,5,0,1,31.9,0,0,12.7,10,2,0
+CUST10586,SESS20586,PROD333,Electronics,Desktop,Organic Search,Guest,246.0,4.0,2,4,1,6,38.3,0,0,29.18,3,2,0
+CUST10587,SESS20587,PROD387,Home & Kitchen,Desktop,Organic Search,Returning Visitor,605.0,7.0,2,5,1,2,90.4,0,0,41.22,14,1,0
+CUST10588,SESS20588,PROD952,Home & Kitchen,Mobile,Email,New Visitor,257.0,10.0,4,6,1,1,6.8,1,1,264.68,2,1,1
+CUST10589,SESS20589,PROD375,Home & Kitchen,Mobile,Social Media,Guest,268.0,8.0,5,9,0,2,18.4,1,0,67.04,4,1,0
+CUST10590,SESS20590,PROD516,Home & Kitchen,Mobile,Social Media,Returning Visitor,207.0,13.0,5,5,1,2,61.8,1,1,24.02,8,4,1
+CUST10591,SESS20591,PROD354,Sports,Mobile,Direct,Guest,60.0,5.0,3,6,0,2,34.9,2,1,17.77,1,7,0
+CUST10592,SESS20592,PROD599,Beauty,Tablet,Paid Ads,New Visitor,222.0,8.0,2,4,0,2,60.1,0,1,181.72,0,5,1
+CUST10593,SESS20593,PROD427,Fashion,Tablet,Paid Ads,Returning Visitor,221.0,,4,5,0,1,17.4,1,1,25.77,0,3,0
+CUST10594,SESS20594,PROD406,Fashion,Mobile,Social Media,New Visitor,50.0,4.0,5,7,0,1,45.5,1,1,37.14,6,2,0
+CUST10595,SESS20595,PROD390,Home & Kitchen,Desktop,Email,Returning Visitor,210.0,6.0,3,4,0,2,62.3,1,0,157.51,7,5,0
+CUST10596,SESS20596,PROD662,Electronics,Mobile,Paid Ads,New Visitor,125.0,6.0,4,6,0,1,49.4,0,1,75.07,14,1,0
+CUST10597,SESS20597,PROD117,Fashion,Mobile,Email,Guest,335.0,6.0,0,2,0,1,47.0,1,1,82.73,10,5,0
+CUST10598,SESS20598,PROD225,Sports,Mobile,Email,Returning Visitor,104.0,2.0,2,6,0,1,20.4,1,0,44.61,18,7,0
+CUST10599,SESS20599,PROD687,Electronics,Mobile,Social Media,Guest,114.0,5.0,1,3,0,3,,2,0,176.42,10,2,0
+CUST10600,SESS20600,PROD606,Fashion,Mobile,Social Media,Guest,136.0,5.0,3,3,1,3,30.0,0,1,27.59,3,2,1
+CUST10601,SESS20601,PROD302,Sports,Tablet,Direct,Returning Visitor,164.0,7.0,5,7,0,1,,1,1,80.89,22,1,0
+CUST10602,SESS20602,PROD520,Sports,Mobile,Paid Ads,New Visitor,299.0,7.0,4,8,0,2,8.3,1,1,110.28,22,6,0
+CUST10603,SESS20603,PROD111,Home & Kitchen,Mobile,Organic Search,New Visitor,296.0,11.0,4,4,0,1,71.0,1,0,61.46,22,7,1
+CUST10604,SESS20604,PROD731,Home & Kitchen,Desktop,Email,Guest,215.0,4.0,2,6,0,2,29.1,2,1,62.94,16,4,0
+CUST10605,SESS20605,PROD198,Electronics,Mobile,Organic Search,Returning Visitor,163.0,4.0,4,6,1,1,74.1,1,1,28.53,15,3,1
+CUST10606,SESS20606,PROD106,Home & Kitchen,Desktop,Organic Search,Returning Visitor,98.0,4.0,1,1,1,1,55.0,0,1,16.72,7,5,0
+CUST10607,SESS20607,PROD680,Sports,Desktop,Paid Ads,Guest,327.0,7.0,1,3,0,4,21.3,1,1,176.39,11,2,0
+CUST10608,SESS20608,PROD762,Books,Desktop,Paid Ads,Guest,322.0,8.0,3,4,1,3,21.3,0,1,75.57,22,1,0
+CUST10609,SESS20609,PROD686,Books,Desktop,Social Media,Returning Visitor,213.0,11.0,3,5,0,1,49.2,1,0,17.09,10,2,0
+CUST10610,SESS20610,PROD521,Books,Mobile,Email,Guest,161.0,8.0,3,6,0,2,26.9,3,0,52.15,6,5,1
+CUST10611,SESS20611,PROD729,Sports,Desktop,Organic Search,Guest,166.0,7.0,0,3,0,1,20.3,4,1,109.04,7,4,0
+CUST10612,SESS20612,PROD161,Beauty,Mobile,Organic Search,New Visitor,376.0,3.0,1,4,1,1,16.4,2,1,26.29,21,2,0
+CUST10613,SESS20613,PROD983,Beauty,Desktop,Organic Search,Returning Visitor,210.0,4.0,2,3,0,2,25.2,3,0,26.62,13,5,0
+CUST10614,SESS20614,PROD110,Electronics,Mobile,Direct,Returning Visitor,285.0,2.0,7,10,2,4,37.8,1,1,549.19,13,7,0
+CUST10615,SESS20615,PROD257,Home & Kitchen,Desktop,Direct,New Visitor,168.0,4.0,2,4,0,0,26.8,1,0,45.51,14,4,0
+CUST10616,SESS20616,PROD108,Home & Kitchen,Desktop,Paid Ads,Returning Visitor,114.0,5.0,1,1,0,1,34.0,2,0,161.71,21,4,0
+CUST10617,SESS20617,PROD670,Home & Kitchen,Tablet,Direct,Returning Visitor,183.0,7.0,2,3,2,1,43.4,0,0,116.83,12,4,0
+CUST10618,SESS20618,PROD130,Books,Mobile,Direct,Guest,215.0,6.0,6,6,1,3,46.7,0,1,29.52,19,1,1
+CUST10619,SESS20619,PROD862,Electronics,Desktop,Email,Returning Visitor,174.0,4.0,2,7,0,2,51.4,2,0,87.36,19,2,0
+CUST10620,SESS20620,PROD175,Electronics,Mobile,Direct,Returning Visitor,141.0,4.0,4,7,0,2,37.0,1,0,66.87,13,1,1
+CUST10621,SESS20621,PROD943,Home & Kitchen,Mobile,Email,Returning Visitor,226.0,6.0,4,7,0,0,47.2,1,0,5.4,16,4,0
+CUST10622,SESS20622,PROD124,Sports,Mobile,Organic Search,New Visitor,102.0,8.0,2,3,0,1,31.0,1,0,44.73,14,3,0
+CUST10623,SESS20623,PROD958,Fashion,Mobile,Paid Ads,New Visitor,117.0,3.0,0,2,1,0,36.3,1,0,61.42,4,5,1
+CUST10624,SESS20624,PROD294,Electronics,Mobile,Email,Returning Visitor,40.0,8.0,4,6,0,3,55.1,1,1,29.23,9,7,1
+CUST10625,SESS20625,PROD597,Fashion,Tablet,Paid Ads,Returning Visitor,308.0,,2,2,2,4,31.6,4,0,12.85,13,4,1
+CUST10626,SESS20626,PROD506,Home & Kitchen,Mobile,Organic Search,Guest,272.0,10.0,4,6,0,0,5.0,2,0,179.27,1,7,0
+CUST10627,SESS20627,PROD316,Beauty,Mobile,Organic Search,New Visitor,200.0,4.0,3,3,0,1,52.2,1,0,70.05,4,6,0
+CUST10628,SESS20628,PROD195,Beauty,Mobile,Direct,Returning Visitor,154.0,8.0,3,6,1,2,24.0,0,0,23.44,9,3,0
+CUST10629,SESS20629,PROD197,Beauty,Mobile,Email,New Visitor,400.0,11.0,2,4,0,1,37.5,1,0,47.54,8,3,1
+CUST10630,SESS20630,PROD625,Books,Desktop,Organic Search,Returning Visitor,232.0,6.0,3,7,1,1,51.3,2,0,59.03,8,1,1
+CUST10631,SESS20631,PROD909,Home & Kitchen,Desktop,Organic Search,New Visitor,454.0,12.0,5,8,2,1,14.2,1,1,242.25,12,3,0
+CUST10632,SESS20632,PROD370,Home & Kitchen,Desktop,Email,Guest,883.0,7.0,4,7,2,1,5.0,2,1,85.89,5,2,0
+CUST10633,,PROD411,Sports,Mobile,Paid Ads,New Visitor,738.0,9.0,3,6,0,2,36.2,2,0,16.98,2,2,0
+CUST10634,SESS20634,PROD502,Sports,Desktop,Social Media,Guest,65.0,9.0,1,3,0,3,5.0,0,1,56.85,13,7,0
+CUST10635,SESS20635,PROD268,Fashion,Mobile,Email,New Visitor,438.0,5.0,0,2,0,1,48.8,2,0,123.71,13,7,0
+CUST10636,SESS20636,PROD136,Books,Desktop,Organic Search,Returning Visitor,457.0,3.0,4,9,0,0,39.2,0,0,70.15,13,5,0
+CUST10637,SESS20637,PROD863,Beauty,Mobile,Organic Search,Guest,260.0,8.0,2,5,0,3,43.3,1,1,89.8,20,4,0
+CUST10638,SESS20638,PROD414,Fashion,Desktop,Paid Ads,Guest,231.0,6.0,2,8,1,0,47.7,0,1,25.93,22,3,0
+CUST10639,SESS20639,PROD468,Sports,Mobile,Paid Ads,Guest,335.0,8.0,0,1,1,1,28.8,1,1,12.95,3,4,0
+CUST10640,SESS20640,PROD516,Books,Mobile,Social Media,Guest,149.0,6.0,3,3,2,0,41.6,3,1,86.02,21,6,0
+CUST10641,SESS20641,PROD747,Electronics,Mobile,Organic Search,Returning Visitor,,6.0,5,8,0,1,48.4,1,0,28.44,20,3,1
+CUST10642,SESS20642,PROD992,Electronics,Mobile,Paid Ads,New Visitor,175.0,8.0,2,3,1,2,31.0,0,1,78.48,4,3,0
+CUST10643,SESS20643,PROD348,Electronics,Tablet,Paid Ads,Returning Visitor,216.0,4.0,2,5,1,0,76.7,1,1,122.08,9,7,0
+CUST10644,SESS20644,PROD919,Home & Kitchen,Mobile,Organic Search,Returning Visitor,103.0,7.0,3,5,0,2,41.9,2,0,57.51,2,7,0
+CUST10645,SESS20645,PROD612,Fashion,Desktop,Social Media,New Visitor,294.0,10.0,2,3,0,2,52.6,2,0,15.97,14,7,0
+CUST10646,SESS20646,PROD271,Electronics,Mobile,Direct,Returning Visitor,437.0,7.0,2,4,0,0,36.1,3,0,13.22,4,1,1
+CUST10647,SESS20647,PROD258,Fashion,Mobile,Email,Returning Visitor,63.0,4.0,1,4,0,2,56.6,1,0,25.07,20,3,0
+CUST10648,SESS20648,PROD176,Electronics,Mobile,Direct,Returning Visitor,500.0,2.0,2,4,2,1,26.4,2,0,13.51,10,7,0
+CUST10649,SESS20649,PROD798,Sports,Mobile,Direct,New Visitor,112.0,6.0,3,9,1,0,32.9,0,0,26.95,11,2,1
+CUST10650,SESS20650,PROD982,Electronics,Desktop,Organic Search,Guest,64.0,7.0,7,9,1,3,19.3,2,1,145.01,11,3,0
+CUST10651,SESS20651,PROD348,Fashion,Mobile,Social Media,New Visitor,496.0,5.0,5,6,1,1,49.0,2,0,208.01,10,7,0
+CUST10652,SESS20652,PROD438,Beauty,Mobile,Organic Search,Returning Visitor,89.0,5.0,4,7,1,1,21.5,3,1,25.73,2,4,0
+CUST10653,SESS20653,PROD327,Fashion,Mobile,Email,Guest,255.0,7.0,0,1,0,3,87.7,2,0,63.11,13,4,0
+CUST10654,SESS20654,PROD375,Fashion,Desktop,,Guest,337.0,3.0,2,7,0,5,22.5,1,0,8.92,14,1,0
+CUST10655,SESS20655,PROD638,Fashion,Mobile,Email,Returning Visitor,511.0,8.0,3,3,0,1,9.5,2,0,19.47,15,1,0
+CUST10656,,PROD216,Books,Desktop,Organic Search,Returning Visitor,151.0,7.0,6,6,0,0,55.5,0,1,38.84,10,6,0
+CUST10657,SESS20657,PROD532,Books,Mobile,Paid Ads,Returning Visitor,458.0,1.0,1,2,1,5,50.3,1,0,182.89,18,5,1
+CUST10658,SESS20658,PROD693,Sports,Mobile,Organic Search,New Visitor,116.0,7.0,2,5,0,3,40.7,1,0,25.21,3,2,0
+CUST10659,SESS20659,PROD485,Home & Kitchen,Mobile,Organic Search,New Visitor,152.0,4.0,2,4,1,0,50.0,3,0,98.19,1,7,0
+CUST10660,SESS20660,PROD190,Electronics,Desktop,Paid Ads,New Visitor,339.0,7.0,0,2,0,3,19.0,4,0,28.18,21,4,0
+CUST10661,SESS20661,PROD640,Beauty,Mobile,Social Media,New Visitor,160.0,3.0,3,4,1,0,32.3,1,0,97.09,12,3,0
+CUST10662,SESS20662,PROD284,Fashion,Tablet,Direct,Returning Visitor,162.0,9.0,2,4,2,0,33.9,2,0,130.0,2,5,0
+CUST10663,SESS20663,PROD496,Books,Desktop,Social Media,New Visitor,43.0,4.0,1,3,0,3,54.9,1,0,278.76,11,5,0
+CUST10664,SESS20664,PROD699,Home & Kitchen,Desktop,Paid Ads,Guest,124.0,6.0,2,3,0,2,45.9,1,0,21.54,11,7,0
+CUST10665,SESS20665,PROD598,Electronics,Mobile,Direct,New Visitor,144.0,7.0,1,4,0,2,33.2,0,0,95.61,20,2,1
+CUST10666,SESS20666,PROD383,Fashion,Mobile,Direct,Guest,452.0,12.0,2,2,1,1,35.6,2,1,81.33,8,2,0
+CUST10667,SESS20667,PROD315,Fashion,Mobile,Paid Ads,New Visitor,357.0,9.0,4,7,0,1,19.8,0,0,35.55,19,5,0
+CUST10668,SESS20668,PROD297,Electronics,Mobile,Social Media,Guest,140.0,7.0,4,7,1,2,27.0,0,0,74.52,16,6,0
+CUST10669,SESS20669,PROD192,Beauty,Mobile,Organic Search,New Visitor,234.0,7.0,2,6,0,1,,2,1,35.61,11,1,0
+CUST10670,SESS20670,PROD892,Fashion,Tablet,Direct,Guest,91.0,6.0,1,4,0,4,18.6,2,0,76.22,2,4,0
+CUST10671,SESS20671,PROD491,Home & Kitchen,Mobile,Paid Ads,Returning Visitor,513.0,6.0,3,5,1,2,39.5,1,1,37.23,21,6,0
+CUST10672,SESS20672,PROD362,Home & Kitchen,Desktop,Social Media,Returning Visitor,293.0,5.0,6,9,2,1,54.7,1,0,29.58,6,3,1
+CUST10673,SESS20673,PROD229,Sports,Mobile,Email,Returning Visitor,548.0,3.0,4,4,2,1,43.4,3,1,443.66,17,2,0
+CUST10674,SESS20674,PROD398,Home & Kitchen,Mobile,Social Media,New Visitor,137.0,6.0,2,3,0,0,69.2,0,0,140.66,1,3,1
+CUST10675,SESS20675,PROD277,Beauty,Mobile,Organic Search,Returning Visitor,268.0,7.0,4,4,0,0,,2,0,84.44,1,3,0
+CUST10676,SESS20676,PROD313,Electronics,Mobile,Direct,New Visitor,561.0,3.0,1,2,1,0,42.3,1,1,91.89,11,2,0
+CUST10677,SESS20677,PROD979,Fashion,Mobile,Paid Ads,Returning Visitor,283.0,6.0,1,2,2,1,29.0,1,1,210.73,16,7,0
+CUST10678,SESS20678,PROD317,Fashion,Mobile,Social Media,Returning Visitor,210.0,2.0,7,8,1,2,30.8,2,0,42.41,8,6,1
+CUST10679,SESS20679,PROD489,Home & Kitchen,Desktop,Email,Returning Visitor,80.0,8.0,2,4,1,2,26.5,3,1,32.43,1,2,1
+CUST10680,SESS20680,PROD184,Electronics,Mobile,Organic Search,Returning Visitor,171.0,5.0,1,3,0,3,70.5,1,0,43.67,14,6,0
+CUST10681,SESS20681,PROD345,Beauty,Desktop,Direct,Returning Visitor,330.0,6.0,2,2,1,0,5.0,2,0,72.98,23,7,1
+CUST10682,SESS20682,PROD901,Sports,Mobile,Email,Returning Visitor,402.0,4.0,7,7,1,1,51.8,2,1,191.99,10,4,0
+CUST10683,,PROD845,Home & Kitchen,Mobile,Social Media,New Visitor,372.0,2.0,3,7,2,1,44.5,1,0,61.9,15,3,1
+CUST10684,SESS20684,PROD809,Home & Kitchen,Desktop,Social Media,Guest,231.0,8.0,1,3,1,2,65.1,2,0,38.9,8,5,0
+CUST10685,SESS20685,PROD467,Fashion,Mobile,Organic Search,New Visitor,151.0,5.0,3,6,1,1,17.5,0,0,20.54,8,7,0
+CUST10686,SESS20686,PROD831,Sports,Mobile,Social Media,Guest,279.0,6.0,3,7,1,3,26.2,0,1,86.97,6,1,1
+CUST10687,SESS20687,PROD503,Home & Kitchen,Desktop,Paid Ads,New Visitor,192.0,5.0,2,4,0,2,50.1,1,1,49.65,19,4,1
+CUST10688,SESS20688,PROD575,Electronics,Mobile,Social Media,Returning Visitor,193.0,7.0,5,8,0,1,21.6,1,0,37.23,15,2,0
+CUST10689,SESS20689,PROD236,Beauty,Mobile,Social Media,New Visitor,153.0,7.0,1,2,0,2,39.3,0,0,160.06,8,2,0
+CUST10690,SESS20690,PROD720,Fashion,Mobile,Direct,Returning Visitor,126.0,3.0,3,4,1,1,37.2,0,0,31.16,5,5,0
+CUST10691,SESS20691,PROD548,Sports,Mobile,Direct,Returning Visitor,552.0,7.0,3,5,0,2,24.4,1,0,75.4,22,2,0
+CUST10692,SESS20692,PROD254,Books,Desktop,Organic Search,Returning Visitor,239.0,5.0,1,4,1,2,47.6,0,0,39.06,12,3,0
+CUST10693,SESS20693,PROD137,Home & Kitchen,Mobile,Direct,New Visitor,505.0,4.0,3,3,1,1,5.0,2,1,46.65,14,5,0
+CUST10694,SESS20694,PROD795,Fashion,Desktop,Email,New Visitor,341.0,5.0,1,3,0,0,77.6,2,1,191.59,18,4,0
+CUST10695,SESS20695,PROD259,Books,Mobile,Paid Ads,Returning Visitor,228.0,5.0,2,4,0,1,38.2,2,0,132.84,15,5,0
+CUST10696,SESS20696,PROD189,Fashion,Mobile,Direct,New Visitor,221.0,7.0,4,7,1,1,14.0,1,1,8.68,13,5,1
+CUST10697,SESS20697,PROD520,Home & Kitchen,Tablet,Organic Search,New Visitor,295.0,7.0,4,6,1,1,29.3,3,0,26.28,15,4,1
+CUST10698,SESS20698,PROD891,Electronics,Mobile,Email,Returning Visitor,365.0,6.0,5,5,1,3,15.6,1,1,22.69,22,7,0
+CUST10699,SESS20699,PROD396,Beauty,Mobile,Paid Ads,Returning Visitor,304.0,5.0,1,5,0,1,41.1,0,0,50.33,16,6,0
+CUST10700,SESS20700,PROD859,Home & Kitchen,Desktop,Paid Ads,Returning Visitor,546.0,11.0,5,6,0,2,49.0,1,0,90.25,21,2,0
+CUST10701,SESS20701,PROD169,Fashion,Tablet,Social Media,Returning Visitor,596.0,7.0,8,9,1,4,47.0,1,0,46.2,20,4,0
+CUST10702,SESS20702,PROD609,Electronics,Desktop,Email,New Visitor,135.0,7.0,2,4,0,4,61.0,2,0,34.83,17,4,0
+CUST10703,SESS20703,PROD450,Home & Kitchen,Mobile,Paid Ads,New Visitor,120.0,7.0,2,5,1,1,20.2,2,0,101.2,3,5,0
+CUST10704,SESS20704,PROD669,Electronics,Mobile,Organic Search,Returning Visitor,121.0,5.0,3,4,0,1,55.9,1,1,22.26,23,1,0
+CUST10705,SESS20705,PROD213,Sports,Tablet,Direct,New Visitor,333.0,9.0,5,6,0,1,59.9,1,1,69.5,4,6,1
+CUST10706,SESS20706,PROD123,Home & Kitchen,Desktop,Direct,Returning Visitor,206.0,7.0,1,5,0,1,9.3,0,0,76.67,12,5,0
+CUST10707,SESS20707,PROD394,Beauty,Mobile,Direct,New Visitor,151.0,9.0,1,2,0,1,53.4,0,0,18.63,3,2,0
+CUST10708,SESS20708,PROD399,Fashion,Mobile,Organic Search,New Visitor,209.0,9.0,4,6,1,3,36.1,2,1,51.28,8,1,1
+CUST10709,SESS20709,PROD572,Electronics,Mobile,Paid Ads,New Visitor,377.0,10.0,1,4,1,1,47.8,3,1,86.13,4,4,0
+CUST10710,SESS20710,PROD340,Fashion,Desktop,,New Visitor,271.0,7.0,1,2,0,0,31.8,0,0,58.2,15,7,0
+CUST10711,SESS20711,PROD794,Electronics,Desktop,Organic Search,New Visitor,147.0,8.0,3,4,1,0,67.9,3,0,83.37,13,2,1
+CUST10712,SESS20712,PROD833,Home & Kitchen,Mobile,Organic Search,Returning Visitor,68.0,6.0,2,3,0,0,19.9,3,1,171.6,16,7,0
+CUST10713,SESS20713,PROD253,Beauty,Mobile,Organic Search,Returning Visitor,97.0,3.0,2,2,0,1,43.4,2,0,24.38,7,5,0
+CUST10714,SESS20714,PROD714,Fashion,Mobile,Social Media,New Visitor,89.0,1.0,2,3,1,2,34.8,1,0,44.32,15,7,0
+CUST10715,SESS20715,PROD834,Sports,Desktop,Social Media,Returning Visitor,423.0,5.0,6,10,0,3,28.8,0,1,52.64,11,1,1
+CUST10716,SESS20716,PROD405,Electronics,Mobile,Social Media,New Visitor,218.0,8.0,0,2,0,2,26.6,2,0,36.39,13,4,1
+CUST10717,SESS20717,PROD382,Home & Kitchen,Mobile,Social Media,Returning Visitor,68.0,7.0,1,4,2,1,52.3,6,0,27.88,12,4,0
+CUST10718,SESS20718,PROD478,Home & Kitchen,Mobile,Organic Search,New Visitor,119.0,5.0,2,3,0,2,20.9,0,0,40.03,4,3,0
+CUST10719,SESS20719,PROD698,Electronics,Mobile,Organic Search,Returning Visitor,387.0,7.0,3,4,0,2,48.4,2,1,156.41,5,4,0
+CUST10720,SESS20720,PROD442,Beauty,Tablet,Organic Search,New Visitor,161.0,8.0,1,3,0,3,62.6,2,0,103.91,5,3,0
+CUST10721,SESS20721,PROD409,Electronics,Mobile,Organic Search,Guest,133.0,6.0,2,2,0,2,,3,0,83.34,20,7,0
+CUST10722,SESS20722,PROD787,Electronics,Mobile,Direct,Returning Visitor,142.0,8.0,2,2,2,3,19.0,3,1,25.33,19,1,0
+CUST10723,SESS20723,PROD631,Beauty,Desktop,Email,New Visitor,132.0,5.0,5,7,0,0,40.4,1,0,70.42,0,3,0
+CUST10724,SESS20724,PROD434,Sports,Mobile,,New Visitor,662.0,7.0,1,3,1,0,12.3,1,0,63.94,16,2,0
+CUST10725,SESS20725,PROD359,Sports,Mobile,Organic Search,Returning Visitor,49.0,6.0,2,5,0,2,34.7,2,1,62.94,12,5,0
+CUST10726,SESS20726,PROD226,Books,Desktop,Social Media,New Visitor,635.0,4.0,6,8,1,3,30.5,1,0,20.16,3,3,0
+CUST10727,SESS20727,PROD400,Books,Mobile,Direct,Returning Visitor,86.0,4.0,0,0,1,2,69.3,5,0,62.22,18,3,0
+CUST10728,SESS20728,PROD239,Electronics,Tablet,Organic Search,Returning Visitor,211.0,4.0,4,6,1,3,35.5,1,0,43.27,9,1,0
+CUST10729,SESS20729,PROD514,Home & Kitchen,Mobile,Paid Ads,Returning Visitor,177.0,12.0,3,5,1,2,55.1,1,1,61.76,13,1,1
+CUST10730,SESS20730,PROD844,Sports,Mobile,Direct,Guest,194.0,5.0,3,6,0,4,66.6,0,0,38.73,7,7,0
+CUST10731,SESS20731,PROD319,Home & Kitchen,Mobile,Paid Ads,New Visitor,540.0,6.0,3,6,1,2,,0,0,33.87,3,3,1
+CUST10732,SESS20732,PROD947,Electronics,Tablet,Social Media,Guest,244.0,7.0,7,13,2,2,47.1,1,1,427.03,14,4,0
+CUST10733,SESS20733,PROD598,Fashion,Desktop,Organic Search,Returning Visitor,364.0,3.0,6,10,0,3,42.2,2,1,42.09,23,3,0
+CUST10734,SESS20734,PROD305,Electronics,Mobile,Organic Search,New Visitor,141.0,4.0,6,7,1,2,27.9,1,0,36.31,2,3,0
+CUST10735,SESS20735,PROD234,Home & Kitchen,Mobile,Direct,Guest,310.0,4.0,3,6,0,0,32.9,3,1,88.45,8,4,0
+CUST10736,SESS20736,PROD653,Home & Kitchen,Desktop,Email,Guest,110.0,3.0,2,4,0,2,47.5,0,0,9.22,2,2,0
+CUST10737,SESS20737,PROD790,Sports,Mobile,Social Media,Guest,86.0,9.0,4,5,0,1,44.8,0,0,23.06,23,6,1
+CUST10738,SESS20738,PROD477,Books,Mobile,Paid Ads,New Visitor,125.0,6.0,2,3,2,2,48.8,0,1,62.37,20,2,0
+CUST10739,SESS20739,PROD713,Fashion,Mobile,Email,Returning Visitor,168.0,6.0,1,5,1,0,53.8,2,1,14.87,11,6,0
+CUST10740,SESS20740,PROD766,Fashion,Mobile,Paid Ads,New Visitor,129.0,2.0,1,1,2,1,70.3,3,0,40.17,9,7,0
+CUST10741,SESS20741,PROD121,Books,Mobile,Direct,Guest,310.0,4.0,4,5,0,0,,1,0,33.63,6,3,0
+CUST10742,SESS20742,PROD560,Sports,Mobile,Social Media,Returning Visitor,669.0,7.0,4,5,0,2,42.6,1,0,47.94,16,6,1
+CUST10743,SESS20743,PROD453,Home & Kitchen,Mobile,Paid Ads,Guest,126.0,3.0,3,6,1,1,37.6,0,0,131.4,0,7,0
+CUST10744,SESS20744,PROD285,Home & Kitchen,Mobile,Social Media,,85.0,8.0,0,2,0,2,40.5,1,0,31.34,2,3,0
+CUST10745,SESS20745,PROD938,Books,Desktop,Organic Search,Returning Visitor,37.0,7.0,1,3,0,2,17.4,1,0,61.28,15,4,0
+CUST10746,SESS20746,PROD912,Sports,Mobile,Paid Ads,New Visitor,225.0,4.0,3,3,1,2,49.0,0,1,32.47,7,4,0
+CUST10747,SESS20747,PROD323,Electronics,Desktop,Paid Ads,Guest,180.0,5.0,7,9,1,3,42.9,1,0,87.5,12,7,0
+CUST10748,SESS20748,PROD661,Beauty,Mobile,Organic Search,New Visitor,543.0,6.0,5,9,0,2,55.0,2,0,59.59,5,5,1
+CUST10749,SESS20749,PROD958,Fashion,Tablet,Paid Ads,New Visitor,258.0,3.0,2,7,0,0,55.5,2,0,45.78,20,2,0
+CUST10750,SESS20750,PROD989,Home & Kitchen,Desktop,Organic Search,New Visitor,125.0,6.0,2,4,0,2,83.6,1,0,40.04,6,6,0
+CUST10751,SESS20751,PROD176,Beauty,Desktop,Organic Search,New Visitor,348.0,5.0,5,8,1,2,23.9,2,0,157.26,5,6,0
+CUST10752,SESS20752,PROD442,Sports,Mobile,Organic Search,New Visitor,296.0,5.0,4,5,0,0,8.1,2,1,9.32,7,2,0
+CUST10753,SESS20753,PROD695,Electronics,Tablet,Social Media,Returning Visitor,38.0,6.0,3,5,0,2,31.9,2,0,82.49,11,4,0
+CUST10754,SESS20754,PROD100,Beauty,Mobile,Paid Ads,Returning Visitor,427.0,7.0,7,9,2,1,23.0,1,0,27.7,22,1,1
+CUST10755,SESS20755,PROD625,Fashion,Mobile,Social Media,Returning Visitor,497.0,9.0,2,5,0,2,41.9,0,0,27.08,2,7,0
+CUST10756,SESS20756,PROD746,Fashion,Desktop,Organic Search,New Visitor,135.0,6.0,1,2,0,3,37.2,2,0,35.13,15,7,0
+CUST10757,SESS20757,PROD799,Electronics,Mobile,Organic Search,Returning Visitor,251.0,7.0,1,3,1,1,46.7,1,1,23.25,10,4,1
+CUST10758,SESS20758,PROD257,Home & Kitchen,Mobile,Social Media,Guest,30.0,2.0,3,5,0,4,50.9,0,0,41.86,6,5,0
+CUST10759,SESS20759,PROD728,Beauty,Mobile,Paid Ads,Returning Visitor,220.0,6.0,4,5,1,1,20.3,1,1,14.79,15,2,0
+CUST10760,SESS20760,PROD992,Beauty,Tablet,Direct,Returning Visitor,121.0,8.0,3,5,0,4,26.5,0,0,83.52,7,1,0
+CUST10761,SESS20761,PROD801,Beauty,Desktop,Organic Search,Returning Visitor,291.0,5.0,3,5,0,0,36.7,1,0,36.23,8,2,0
+CUST10762,SESS20762,PROD751,Beauty,Desktop,Organic Search,Returning Visitor,96.0,5.0,2,2,1,2,39.3,2,1,51.08,22,4,0
+CUST10763,,PROD581,Home & Kitchen,Mobile,Organic Search,Returning Visitor,216.0,7.0,5,11,0,2,30.4,1,0,23.92,18,6,0
+CUST10764,SESS20764,PROD372,Electronics,Desktop,Paid Ads,Returning Visitor,385.0,3.0,3,5,1,1,62.9,0,0,104.34,4,7,0
+CUST10765,SESS20765,PROD686,Electronics,Mobile,Paid Ads,Returning Visitor,152.0,5.0,5,5,0,0,18.6,0,0,30.85,1,5,0
+CUST10766,SESS20766,PROD474,Fashion,Desktop,Email,Returning Visitor,258.0,5.0,2,6,0,3,56.2,1,1,12.04,4,7,0
+CUST10767,SESS20767,PROD819,Home & Kitchen,Desktop,Direct,New Visitor,63.0,11.0,4,6,1,0,56.3,1,0,40.31,17,4,0
+CUST10768,SESS20768,PROD341,Fashion,Mobile,Direct,Returning Visitor,484.0,4.0,3,5,0,2,43.7,1,0,20.22,15,2,0
+CUST10769,SESS20769,PROD420,Home & Kitchen,Mobile,Social Media,Returning Visitor,413.0,7.0,1,1,1,3,56.0,1,0,23.72,22,1,0
+CUST10770,SESS20770,PROD399,Home & Kitchen,Mobile,Paid Ads,Guest,461.0,9.0,3,3,2,0,5.0,1,0,188.57,10,3,0
+CUST10771,SESS20771,PROD368,Home & Kitchen,Mobile,Direct,Guest,186.0,8.0,3,4,1,1,24.4,4,0,98.43,13,5,0
+CUST10772,SESS20772,PROD600,Sports,Desktop,Direct,Returning Visitor,118.0,8.0,2,6,1,2,38.1,2,1,55.25,10,7,0
+CUST10773,SESS20773,PROD864,Home & Kitchen,Mobile,Social Media,New Visitor,29.0,4.0,2,2,0,2,34.6,1,0,35.93,2,1,0
+CUST10774,SESS20774,PROD155,Electronics,Mobile,Direct,New Visitor,,5.0,3,4,1,2,59.8,1,0,25.68,13,3,0
+CUST10775,SESS20775,PROD662,Beauty,Tablet,Email,New Visitor,209.0,8.0,3,5,0,0,37.8,0,0,108.87,21,1,0
+CUST10776,SESS20776,PROD105,Home & Kitchen,Tablet,Direct,New Visitor,252.0,8.0,5,5,1,1,60.0,1,0,43.37,2,4,1
+CUST10777,SESS20777,PROD876,Sports,Mobile,Email,New Visitor,142.0,6.0,3,5,0,0,27.6,0,0,42.32,1,2,0
+CUST10778,,PROD238,Electronics,Mobile,Paid Ads,New Visitor,303.0,5.0,4,6,0,0,18.0,0,1,42.16,5,4,0
+CUST10779,SESS20779,PROD194,Sports,Mobile,Direct,Returning Visitor,431.0,5.0,1,2,2,1,45.8,2,0,20.8,9,7,0
+CUST10780,SESS20780,PROD777,Sports,Mobile,Organic Search,Returning Visitor,497.0,5.0,3,8,0,4,28.5,2,1,22.44,6,3,1
+CUST10781,SESS20781,PROD724,Home & Kitchen,Tablet,Social Media,New Visitor,328.0,5.0,1,1,0,4,38.1,1,1,217.88,16,3,0
+CUST10782,SESS20782,PROD799,Electronics,Mobile,Organic Search,Returning Visitor,126.0,11.0,1,3,1,1,51.1,2,0,30.14,14,4,1
+CUST10783,SESS20783,PROD137,Fashion,Mobile,Paid Ads,New Visitor,283.0,5.0,7,11,2,3,61.1,0,0,54.48,22,2,0
+CUST10784,SESS20784,PROD253,Fashion,Mobile,Organic Search,New Visitor,165.0,7.0,5,6,0,1,52.5,2,0,21.55,1,6,0
+CUST10785,SESS20785,PROD705,Books,Mobile,Direct,New Visitor,417.0,5.0,4,7,0,2,35.3,2,0,32.5,10,2,1
+CUST10786,SESS20786,PROD242,Books,Mobile,Social Media,New Visitor,274.0,5.0,5,8,0,1,74.7,0,0,79.24,20,1,1
+CUST10787,SESS20787,PROD606,Fashion,Mobile,Direct,New Visitor,279.0,8.0,6,8,1,3,25.1,0,0,65.63,8,7,1
+CUST10788,SESS20788,PROD671,Electronics,Desktop,Direct,Returning Visitor,583.0,5.0,1,3,0,2,27.8,1,1,5.89,8,6,0
+CUST10789,SESS20789,PROD627,Electronics,Mobile,Paid Ads,Returning Visitor,337.0,9.0,5,6,1,0,26.7,2,0,168.55,7,4,1
+CUST10790,SESS20790,PROD929,Fashion,Desktop,Direct,Guest,178.0,6.0,5,9,0,1,58.8,2,0,56.12,23,2,0
+CUST10791,SESS20791,PROD620,Electronics,Desktop,Email,New Visitor,389.0,6.0,5,8,1,3,21.8,1,0,144.76,9,2,0
+CUST10792,SESS20792,PROD186,Home & Kitchen,Mobile,Paid Ads,Guest,348.0,7.0,1,4,2,1,36.3,3,1,75.35,4,4,0
+CUST10793,SESS20793,PROD274,Beauty,Desktop,Organic Search,New Visitor,89.0,4.0,3,3,1,1,35.1,0,0,82.99,13,2,0
+CUST10794,SESS20794,PROD535,Fashion,Mobile,Social Media,Guest,231.0,6.0,2,5,0,0,50.5,2,0,65.51,5,7,1
+CUST10795,SESS20795,PROD467,Fashion,Desktop,Paid Ads,Returning Visitor,164.0,,4,7,1,2,60.3,3,0,41.66,1,5,0
+CUST10796,SESS20796,PROD174,Electronics,Mobile,Paid Ads,Guest,29.0,5.0,3,4,1,1,47.0,1,0,352.06,7,6,0
+CUST10797,SESS20797,PROD509,Home & Kitchen,Mobile,Organic Search,New Visitor,138.0,9.0,1,3,0,1,38.4,2,0,69.72,8,4,0
+CUST10798,SESS20798,PROD508,Fashion,Mobile,Direct,New Visitor,525.0,2.0,2,5,1,0,34.4,3,1,190.15,16,5,0
+CUST10799,SESS20799,PROD268,Electronics,Mobile,Social Media,New Visitor,307.0,9.0,2,7,1,2,13.8,5,1,48.28,19,7,0
+CUST10800,SESS20800,PROD720,Sports,Mobile,Organic Search,Returning Visitor,256.0,9.0,3,5,1,1,34.3,0,0,46.42,9,2,0
+CUST10801,SESS20801,PROD721,Fashion,Mobile,Direct,Returning Visitor,183.0,11.0,0,4,0,0,39.3,1,1,84.42,16,1,0
+CUST10802,SESS20802,PROD471,Electronics,Mobile,Paid Ads,Guest,510.0,5.0,3,5,0,1,35.1,1,0,175.86,9,7,0
+CUST10803,SESS20803,PROD251,Electronics,Tablet,Direct,New Visitor,119.0,4.0,5,8,0,0,18.3,1,0,30.15,16,4,0
+CUST10804,SESS20804,PROD780,Books,Mobile,Social Media,New Visitor,76.0,8.0,3,6,0,1,51.7,2,1,239.09,15,1,0
+CUST10805,SESS20805,PROD631,Fashion,Mobile,Social Media,Returning Visitor,380.0,5.0,2,3,1,2,58.8,1,1,136.64,4,5,0
+CUST10806,SESS20806,PROD813,Fashion,Mobile,Paid Ads,Returning Visitor,766.0,5.0,3,4,0,4,43.2,2,0,103.92,14,4,1
+CUST10807,SESS20807,PROD146,Electronics,Mobile,Paid Ads,Returning Visitor,181.0,5.0,4,7,1,2,48.3,1,1,20.25,2,4,0
+CUST10808,SESS20808,PROD704,Sports,Mobile,Social Media,New Visitor,332.0,5.0,5,7,1,2,46.5,2,1,19.89,14,5,0
+CUST10809,SESS20809,PROD828,Fashion,Desktop,Social Media,New Visitor,463.0,5.0,3,3,0,1,30.1,2,0,49.59,12,4,1
+CUST10810,SESS20810,PROD734,Sports,Mobile,Organic Search,Returning Visitor,118.0,4.0,3,5,0,0,55.2,0,0,110.89,16,1,0
+CUST10811,SESS20811,PROD372,Home & Kitchen,Desktop,Email,Guest,190.0,6.0,4,4,1,2,30.6,2,0,36.19,18,5,1
+CUST10812,SESS20812,PROD624,Fashion,Mobile,Direct,Returning Visitor,530.0,3.0,5,10,2,3,26.2,1,1,32.62,4,4,1
+CUST10813,SESS20813,PROD738,Sports,Mobile,Organic Search,New Visitor,193.0,5.0,2,4,1,0,50.6,0,1,104.49,2,1,0
+CUST10814,SESS20814,PROD379,Fashion,Tablet,Direct,Returning Visitor,180.0,6.0,4,4,2,2,27.2,0,1,39.95,4,2,0
+CUST10815,SESS20815,PROD407,Home & Kitchen,Mobile,Direct,Guest,465.0,7.0,7,8,2,1,51.4,2,1,49.96,6,3,1
+CUST10816,SESS20816,PROD617,Fashion,Desktop,Social Media,Returning Visitor,319.0,6.0,3,4,0,2,15.5,1,0,12.62,18,3,0
+CUST10817,SESS20817,PROD434,Sports,Tablet,Organic Search,Returning Visitor,397.0,5.0,1,4,1,5,20.1,0,0,40.65,2,6,0
+CUST10818,SESS20818,PROD297,Home & Kitchen,Mobile,Social Media,New Visitor,302.0,6.0,4,4,0,2,27.3,0,0,43.12,15,4,0
+CUST10819,SESS20819,PROD517,Beauty,Mobile,Organic Search,Returning Visitor,199.0,8.0,2,5,0,0,58.5,2,0,93.78,12,1,0
+CUST10820,SESS20820,PROD770,Books,Tablet,Organic Search,Returning Visitor,179.0,4.0,4,5,0,1,30.8,1,0,70.75,5,1,0
+CUST10821,SESS20821,PROD114,Fashion,Mobile,Paid Ads,Returning Visitor,,6.0,2,4,1,1,68.2,2,0,255.52,13,3,1
+CUST10822,SESS20822,PROD540,Fashion,Desktop,Social Media,Returning Visitor,566.0,8.0,2,2,0,2,,3,0,47.11,6,3,0
+CUST10823,SESS20823,PROD504,Sports,Desktop,Paid Ads,Guest,309.0,4.0,4,13,0,0,37.8,1,0,99.23,0,4,0
+CUST10824,SESS20824,PROD243,Fashion,Desktop,Organic Search,New Visitor,144.0,7.0,7,9,1,0,48.4,0,0,54.67,12,7,0
+CUST10825,SESS20825,PROD242,Fashion,Mobile,Organic Search,New Visitor,257.0,10.0,0,1,0,0,50.8,0,1,121.45,17,5,0
+CUST10826,SESS20826,PROD351,Sports,Mobile,Email,Guest,151.0,3.0,2,6,0,1,,1,0,33.89,8,2,0
+CUST10827,SESS20827,PROD301,Electronics,Mobile,Organic Search,Returning Visitor,202.0,12.0,3,5,1,0,14.9,1,1,37.68,14,6,0
+CUST10828,SESS20828,PROD574,Home & Kitchen,Tablet,,Guest,326.0,4.0,2,6,2,1,31.5,1,0,100.85,3,6,1
+CUST10829,SESS20829,PROD517,Books,Desktop,Organic Search,Returning Visitor,347.0,7.0,1,2,0,1,44.6,3,0,110.23,1,7,0
+CUST10830,SESS20830,PROD979,Fashion,Mobile,Organic Search,Returning Visitor,185.0,4.0,3,6,1,0,18.2,1,0,12.57,1,1,0
+CUST10831,SESS20831,PROD987,Beauty,Mobile,Social Media,New Visitor,61.0,8.0,4,6,0,3,6.1,1,0,30.63,16,5,0
+CUST10832,SESS20832,PROD243,Books,Mobile,Organic Search,Guest,136.0,11.0,3,4,0,1,24.9,2,1,57.56,18,6,1
+CUST10833,SESS20833,PROD789,Fashion,Mobile,,Returning Visitor,556.0,7.0,5,6,0,1,49.9,2,1,125.76,5,5,0
+CUST10834,SESS20834,PROD913,Home & Kitchen,Mobile,Social Media,Returning Visitor,174.0,6.0,5,7,0,3,62.2,1,0,32.35,23,1,0
+CUST10835,SESS20835,PROD855,Electronics,Tablet,Paid Ads,Returning Visitor,197.0,8.0,1,4,1,2,40.9,1,1,78.58,17,4,0
+CUST10836,,PROD191,Sports,Mobile,Email,New Visitor,120.0,3.0,3,5,0,1,44.2,0,1,107.79,11,7,0
+CUST10837,SESS20837,PROD361,Beauty,Mobile,Organic Search,New Visitor,268.0,6.0,2,7,2,2,41.0,2,0,76.79,14,6,0
+CUST10838,SESS20838,PROD675,Sports,Mobile,,Guest,295.0,5.0,1,4,1,3,72.7,2,0,117.45,0,3,0
+CUST10839,SESS20839,PROD123,Beauty,Mobile,Organic Search,Returning Visitor,581.0,4.0,1,2,0,0,59.0,0,0,38.18,14,3,0
+CUST10840,SESS20840,PROD597,Books,Mobile,Organic Search,Guest,677.0,6.0,2,3,0,1,10.3,2,1,64.78,9,4,1
+CUST10841,SESS20841,PROD382,Fashion,Mobile,Email,Guest,150.0,4.0,4,6,1,4,69.8,1,1,17.99,22,1,0
+CUST10842,SESS20842,PROD270,Fashion,Tablet,Direct,New Visitor,358.0,5.0,6,7,1,2,64.4,1,1,28.69,19,5,0
+CUST10843,SESS20843,PROD173,Fashion,Mobile,Direct,New Visitor,102.0,7.0,4,5,0,4,25.3,1,1,262.1,9,5,0
+CUST10844,SESS20844,PROD492,Electronics,Mobile,Social Media,Returning Visitor,284.0,13.0,2,6,1,2,14.2,0,1,39.11,4,2,0
+CUST10845,SESS20845,PROD854,Electronics,Mobile,Paid Ads,Guest,48.0,4.0,2,4,1,0,40.9,2,0,24.88,10,6,0
+CUST10846,SESS20846,PROD713,Electronics,Mobile,Social Media,New Visitor,272.0,8.0,1,2,0,3,45.4,1,0,226.08,12,1,1
+CUST10847,SESS20847,PROD903,Fashion,Desktop,Organic Search,Returning Visitor,73.0,4.0,2,4,0,1,17.4,1,1,39.19,9,1,1
+CUST10848,SESS20848,PROD330,Electronics,Desktop,Social Media,New Visitor,168.0,3.0,7,10,3,3,20.6,2,0,86.05,8,7,1
+CUST10849,SESS20849,PROD675,Home & Kitchen,Mobile,Direct,New Visitor,502.0,,0,4,0,1,13.5,1,1,8.7,21,3,1
+CUST10850,SESS20850,PROD566,Books,Mobile,Email,Returning Visitor,135.0,5.0,5,6,0,2,35.5,0,0,130.12,11,2,0
+CUST10851,SESS20851,PROD218,Fashion,Mobile,Email,New Visitor,,4.0,1,6,1,2,21.2,2,0,29.51,5,4,0
+CUST10852,SESS20852,PROD613,Electronics,Mobile,Social Media,New Visitor,640.0,3.0,2,5,0,2,28.0,0,0,88.46,16,4,0
+CUST10853,SESS20853,PROD548,Books,Mobile,Paid Ads,Guest,68.0,13.0,1,2,0,2,21.4,0,0,86.68,11,2,0
+CUST10854,SESS20854,PROD262,Home & Kitchen,Mobile,Paid Ads,Guest,302.0,4.0,3,5,0,2,25.6,1,0,49.3,13,3,0
+CUST10855,SESS20855,PROD314,Electronics,Mobile,Direct,Returning Visitor,727.0,4.0,6,6,0,1,56.0,1,0,18.28,22,7,0
+CUST10856,SESS20856,PROD159,Home & Kitchen,Mobile,Direct,New Visitor,146.0,6.0,1,1,1,2,23.2,1,0,39.89,13,2,0
+CUST10857,SESS20857,PROD583,Beauty,Mobile,,Returning Visitor,98.0,5.0,2,5,3,2,18.2,0,1,47.49,8,5,1
+CUST10858,SESS20858,PROD768,Fashion,Desktop,Email,Returning Visitor,113.0,5.0,3,3,0,0,,2,0,134.79,19,5,0
+CUST10859,SESS20859,PROD257,Fashion,Desktop,Social Media,Guest,213.0,3.0,1,4,0,3,46.7,0,0,89.48,18,7,0
+CUST10860,SESS20860,PROD168,Fashion,Mobile,Organic Search,Returning Visitor,281.0,7.0,1,1,0,2,44.6,0,1,34.07,13,3,0
+CUST10861,SESS20861,PROD502,Books,Desktop,Direct,New Visitor,129.0,6.0,4,7,1,1,34.3,1,1,43.33,14,5,1
+CUST10862,SESS20862,PROD148,Fashion,Mobile,Paid Ads,Returning Visitor,549.0,5.0,3,4,0,0,34.5,2,0,92.5,0,6,0
+CUST10863,SESS20863,PROD960,Home & Kitchen,Mobile,Social Media,Returning Visitor,254.0,,6,8,0,0,32.4,3,0,75.43,7,7,1
+CUST10864,SESS20864,PROD910,Sports,Desktop,Direct,Returning Visitor,,12.0,2,4,1,0,33.0,2,0,24.98,15,5,0
+CUST10865,SESS20865,PROD270,Sports,Mobile,Email,Guest,458.0,4.0,3,6,1,1,60.1,1,0,48.21,16,2,0
+CUST10866,SESS20866,PROD928,Sports,Desktop,Social Media,Returning Visitor,225.0,5.0,2,2,1,1,38.3,0,0,242.99,10,5,0
+CUST10867,SESS20867,PROD483,Home & Kitchen,Mobile,Paid Ads,Returning Visitor,376.0,7.0,3,5,1,0,41.3,2,1,182.96,2,4,1
+CUST10868,SESS20868,PROD948,Home & Kitchen,Mobile,Social Media,Guest,274.0,5.0,3,4,1,0,43.8,1,1,42.91,10,7,1
+CUST10869,SESS20869,PROD335,Electronics,Desktop,Paid Ads,Guest,89.0,5.0,0,2,0,1,55.5,1,1,123.85,17,2,0
+CUST10870,SESS20870,PROD595,Fashion,Mobile,Email,Returning Visitor,408.0,7.0,3,4,1,1,40.2,0,1,23.45,0,5,0
+CUST10871,SESS20871,PROD770,Sports,Mobile,Direct,New Visitor,47.0,9.0,1,3,0,0,26.2,0,0,40.77,17,1,0
+CUST10872,SESS20872,PROD770,Sports,Desktop,Organic Search,New Visitor,198.0,10.0,3,6,1,2,12.1,1,1,22.48,2,3,1
+CUST10873,SESS20873,PROD855,Home & Kitchen,Desktop,Organic Search,Returning Visitor,76.0,2.0,2,5,0,1,,0,0,168.57,22,1,0
+CUST10874,SESS20874,PROD995,Home & Kitchen,Mobile,Organic Search,Guest,213.0,7.0,1,2,0,2,33.3,1,0,26.17,17,4,0
+CUST10875,SESS20875,PROD671,Home & Kitchen,Mobile,Paid Ads,New Visitor,361.0,3.0,3,6,0,2,35.1,4,1,131.03,19,4,1
+CUST10876,SESS20876,PROD828,Books,Mobile,Organic Search,Returning Visitor,134.0,4.0,2,2,1,1,50.1,3,0,83.52,23,3,0
+CUST10877,SESS20877,PROD657,Fashion,Mobile,Paid Ads,New Visitor,398.0,9.0,3,8,0,1,46.8,3,0,41.43,11,1,0
+CUST10878,SESS20878,PROD648,Books,Tablet,Social Media,Returning Visitor,246.0,7.0,4,6,0,0,31.5,0,0,19.62,17,2,0
+CUST10879,SESS20879,PROD727,Electronics,Mobile,Organic Search,Guest,33.0,6.0,3,6,0,5,9.9,3,0,175.17,12,3,0
+CUST10880,SESS20880,PROD434,Fashion,Mobile,Direct,New Visitor,116.0,4.0,2,5,0,3,47.4,1,0,17.95,17,5,0
+CUST10881,SESS20881,PROD736,Electronics,Mobile,Organic Search,Guest,187.0,10.0,2,7,1,1,19.1,1,0,91.23,21,5,0
+CUST10882,SESS20882,PROD771,Fashion,Mobile,Email,Guest,198.0,10.0,1,5,1,0,41.9,3,0,18.95,5,6,0
+CUST10883,SESS20883,PROD937,Books,Mobile,Direct,Guest,216.0,6.0,4,6,0,1,28.7,1,0,16.86,11,6,0
+CUST10884,SESS20884,PROD718,Home & Kitchen,Mobile,Organic Search,Guest,174.0,5.0,3,4,1,2,30.5,1,0,60.4,3,6,0
+CUST10885,SESS20885,PROD879,Home & Kitchen,Tablet,Organic Search,Guest,305.0,7.0,5,8,1,2,17.1,2,0,12.65,12,7,1
+CUST10886,SESS20886,PROD267,Home & Kitchen,Mobile,Organic Search,New Visitor,171.0,,3,4,0,1,47.9,4,1,31.38,0,1,1
+CUST10887,SESS20887,PROD659,Electronics,Mobile,Organic Search,Returning Visitor,696.0,9.0,4,5,0,0,24.7,1,0,126.27,7,1,1
+CUST10888,SESS20888,PROD564,Books,Mobile,Email,New Visitor,83.0,3.0,5,6,0,0,15.1,1,0,55.36,16,7,0
+CUST10889,SESS20889,PROD617,Fashion,Desktop,Social Media,Guest,67.0,3.0,1,5,1,2,30.5,0,1,92.49,7,2,0
+CUST10890,SESS20890,PROD644,Fashion,Mobile,Direct,Returning Visitor,94.0,4.0,5,5,0,0,51.9,4,0,106.78,0,2,0
+CUST10891,SESS20891,PROD444,Beauty,Mobile,Direct,Guest,123.0,10.0,0,2,0,1,21.2,1,1,176.08,13,1,0
+CUST10892,SESS20892,PROD652,Fashion,Mobile,Organic Search,New Visitor,176.0,4.0,3,5,1,1,5.0,2,1,101.68,22,6,1
+CUST10893,SESS20893,PROD273,Electronics,Desktop,Paid Ads,New Visitor,246.0,13.0,6,7,1,1,46.8,4,0,41.67,19,2,1
+CUST10894,SESS20894,PROD995,Sports,Mobile,Direct,Guest,212.0,6.0,2,2,1,1,16.7,3,0,98.92,17,4,1
+CUST10895,SESS20895,PROD744,Books,Mobile,Organic Search,Guest,78.0,8.0,2,6,0,1,14.0,1,0,370.68,20,2,0
+CUST10896,SESS20896,PROD640,Electronics,Mobile,Direct,New Visitor,317.0,4.0,4,6,0,2,45.6,1,0,99.13,14,1,1
+CUST10897,SESS20897,PROD752,Fashion,Desktop,Paid Ads,New Visitor,406.0,5.0,2,3,0,3,70.2,0,0,53.31,13,5,0
+CUST10898,SESS20898,PROD733,Beauty,Desktop,Direct,Guest,58.0,5.0,8,10,2,1,90.2,1,0,55.62,7,1,1
+CUST10899,SESS20899,PROD670,Electronics,Mobile,Social Media,New Visitor,754.0,6.0,7,8,1,3,58.7,0,1,20.22,21,6,1
+CUST10900,SESS20900,PROD555,Home & Kitchen,Mobile,Paid Ads,Guest,66.0,8.0,7,8,2,1,23.4,1,0,73.8,23,4,1
+CUST10901,SESS20901,PROD875,Sports,Mobile,Paid Ads,Returning Visitor,148.0,7.0,3,7,0,2,38.2,2,0,28.92,23,5,1
+CUST10902,SESS20902,PROD298,Fashion,Tablet,Direct,,71.0,7.0,1,2,1,3,11.8,4,1,46.22,22,4,0
+CUST10903,SESS20903,PROD615,Sports,Mobile,,Returning Visitor,102.0,4.0,2,4,1,1,15.8,1,1,34.1,17,1,0
+CUST10904,SESS20904,PROD498,Books,Mobile,Paid Ads,Guest,107.0,7.0,0,1,1,3,30.8,1,0,41.36,5,1,1
+CUST10905,SESS20905,PROD193,Electronics,Mobile,Paid Ads,Returning Visitor,472.0,6.0,3,7,0,1,29.0,1,0,31.28,13,5,0
+CUST10906,SESS20906,PROD189,Sports,Mobile,Email,New Visitor,290.0,6.0,2,3,0,2,65.3,1,0,47.92,5,3,0
+CUST10907,SESS20907,PROD550,Books,Mobile,Organic Search,New Visitor,261.0,4.0,4,5,2,1,59.8,0,0,127.31,0,7,0
+CUST10908,SESS20908,PROD615,Electronics,Desktop,Email,Guest,389.0,5.0,2,5,0,2,75.3,0,0,73.61,2,6,0
+CUST10909,SESS20909,PROD466,Home & Kitchen,Mobile,Organic Search,New Visitor,511.0,7.0,1,3,1,1,70.5,1,0,72.15,13,4,1
+CUST10910,SESS20910,PROD332,Books,Mobile,Organic Search,Guest,303.0,4.0,5,6,0,1,34.8,0,0,50.41,13,6,0
+CUST10911,SESS20911,PROD426,Books,Mobile,Direct,Returning Visitor,319.0,6.0,1,1,1,1,36.9,0,0,49.4,14,6,0
+CUST10912,SESS20912,PROD463,Electronics,Mobile,Email,Returning Visitor,92.0,6.0,2,3,0,2,7.4,2,0,119.87,17,5,0
+CUST10913,SESS20913,PROD283,Electronics,Desktop,Organic Search,Returning Visitor,153.0,4.0,0,2,0,0,44.1,1,0,55.54,4,2,1
+CUST10914,SESS20914,PROD724,Home & Kitchen,Mobile,Organic Search,Returning Visitor,40.0,5.0,4,7,0,3,22.8,1,0,63.34,1,5,0
+CUST10915,SESS20915,PROD867,Sports,Tablet,Paid Ads,New Visitor,98.0,5.0,2,5,1,0,29.9,2,0,78.4,13,4,0
+CUST10916,SESS20916,PROD350,Books,Mobile,Social Media,Guest,201.0,2.0,2,5,0,1,30.8,1,0,14.99,23,1,0
+CUST10917,SESS20917,PROD352,Home & Kitchen,Mobile,Organic Search,Returning Visitor,185.0,5.0,1,1,0,1,31.5,0,0,32.63,0,2,0
+CUST10918,SESS20918,PROD830,Home & Kitchen,Tablet,Paid Ads,Returning Visitor,151.0,6.0,2,4,0,0,43.4,1,1,95.92,7,3,0
+CUST10919,SESS20919,PROD369,Home & Kitchen,Mobile,Organic Search,New Visitor,166.0,3.0,2,6,1,1,67.9,2,0,56.36,9,2,0
+CUST10920,SESS20920,PROD982,Electronics,Desktop,Organic Search,Returning Visitor,565.0,8.0,2,4,2,0,16.1,2,0,45.35,8,6,1
+CUST10921,SESS20921,PROD591,Beauty,Mobile,Direct,Returning Visitor,108.0,9.0,3,6,0,3,17.2,1,0,121.52,5,1,0
+CUST10922,SESS20922,PROD804,Sports,Tablet,Organic Search,Guest,68.0,7.0,3,9,1,0,46.3,0,1,126.45,16,3,1
+CUST10923,SESS20923,PROD315,Electronics,Tablet,Direct,Returning Visitor,601.0,2.0,6,8,2,3,39.3,1,1,61.19,16,1,1
+CUST10924,SESS20924,PROD949,Home & Kitchen,Mobile,Social Media,New Visitor,418.0,8.0,1,3,0,0,26.1,1,0,20.34,12,2,0
+CUST10925,SESS20925,PROD692,Sports,Mobile,Social Media,New Visitor,20.0,6.0,4,6,2,1,36.2,0,0,73.96,3,7,0
+CUST10926,SESS20926,PROD276,Beauty,Mobile,Organic Search,Guest,201.0,7.0,2,3,1,1,9.7,2,0,25.23,22,1,1
+CUST10927,SESS20927,PROD911,Beauty,Mobile,Paid Ads,New Visitor,382.0,6.0,2,3,1,3,18.4,1,0,38.3,22,5,1
+CUST10928,SESS20928,PROD122,Home & Kitchen,Mobile,Direct,Returning Visitor,259.0,11.0,5,8,1,2,34.7,1,0,65.3,8,3,1
+CUST10929,SESS20929,PROD310,Home & Kitchen,Mobile,Organic Search,New Visitor,62.0,2.0,3,5,0,2,66.5,0,0,31.67,16,5,1
+CUST10930,SESS20930,PROD661,Fashion,Tablet,Direct,Returning Visitor,174.0,5.0,1,3,1,2,59.4,2,0,73.49,13,4,0
+CUST10931,SESS20931,PROD661,Home & Kitchen,Mobile,Organic Search,Guest,241.0,7.0,1,6,1,0,8.8,0,0,32.59,9,2,0
+CUST10932,SESS20932,PROD100,Beauty,Mobile,Social Media,Returning Visitor,106.0,3.0,2,3,0,2,49.8,2,0,219.94,13,5,0
+CUST10933,SESS20933,PROD666,Books,Mobile,Direct,New Visitor,207.0,4.0,2,3,0,1,20.3,2,0,98.59,13,7,0
+CUST10934,SESS20934,PROD578,Books,Mobile,Paid Ads,New Visitor,50.0,3.0,3,4,1,3,7.6,2,0,16.48,18,1,1
+CUST10935,SESS20935,PROD361,Fashion,Desktop,Organic Search,Guest,370.0,11.0,0,3,0,1,62.6,4,1,54.26,22,3,1
+CUST10936,SESS20936,PROD741,Beauty,Mobile,Paid Ads,Returning Visitor,417.0,8.0,3,6,1,2,69.0,4,0,105.96,5,1,0
+CUST10937,SESS20937,PROD560,Home & Kitchen,Mobile,Paid Ads,New Visitor,438.0,7.0,7,7,2,1,30.1,0,0,74.35,23,7,1
+CUST10938,SESS20938,PROD605,Electronics,Desktop,Organic Search,New Visitor,356.0,6.0,4,6,0,0,76.6,3,0,31.87,17,3,0
+CUST10939,SESS20939,PROD665,Beauty,Tablet,Organic Search,New Visitor,134.0,9.0,1,5,1,1,17.9,1,1,102.83,15,2,1
+CUST10940,SESS20940,PROD598,Home & Kitchen,Mobile,Social Media,,323.0,5.0,1,4,1,2,49.5,1,0,120.26,10,7,0
+CUST10941,SESS20941,PROD220,Fashion,Mobile,Paid Ads,Returning Visitor,455.0,4.0,2,7,0,2,30.0,1,0,37.57,17,4,0
+CUST10942,SESS20942,PROD250,Home & Kitchen,Mobile,Direct,New Visitor,310.0,6.0,6,9,0,2,5.0,1,0,78.69,23,5,0
+CUST10943,SESS20943,PROD710,Books,Desktop,Paid Ads,New Visitor,346.0,3.0,6,7,0,0,5.0,0,0,55.8,16,1,1
+CUST10944,SESS20944,PROD632,Fashion,Mobile,Social Media,,501.0,4.0,3,5,1,1,41.9,2,0,33.14,8,1,0
+CUST10945,SESS20945,PROD615,Home & Kitchen,Desktop,Email,New Visitor,110.0,5.0,1,5,1,0,28.4,2,1,55.59,20,4,0
+CUST10946,SESS20946,PROD715,Fashion,Mobile,Email,Returning Visitor,103.0,7.0,3,3,0,1,21.8,1,0,70.78,0,5,1
+CUST10947,SESS20947,PROD986,Beauty,Mobile,Direct,New Visitor,245.0,7.0,5,5,2,5,21.9,1,1,32.27,21,1,1
+CUST10948,SESS20948,PROD724,Sports,Mobile,Direct,Guest,567.0,8.0,2,5,1,4,27.9,4,0,196.54,22,5,1
+CUST10949,SESS20949,PROD404,Beauty,Mobile,Organic Search,New Visitor,434.0,8.0,5,6,1,0,36.6,0,0,41.87,21,1,1
+CUST10950,SESS20950,PROD585,Electronics,Mobile,Social Media,Returning Visitor,117.0,3.0,2,5,0,1,31.1,2,0,95.38,21,4,0
+CUST10951,SESS20951,PROD199,Sports,Desktop,Paid Ads,Returning Visitor,157.0,8.0,5,6,1,2,49.6,1,1,85.83,16,7,0
+CUST10952,SESS20952,PROD328,Fashion,Mobile,Organic Search,Returning Visitor,330.0,6.0,1,3,1,2,69.7,2,1,88.77,1,1,0
+CUST10953,SESS20953,PROD481,Fashion,Mobile,Social Media,,277.0,3.0,1,2,1,2,61.1,1,0,46.27,23,1,1
+CUST10954,SESS20954,PROD701,Electronics,Desktop,Organic Search,New Visitor,104.0,6.0,3,4,0,3,36.6,2,0,20.67,2,5,0
+CUST10955,SESS20955,PROD440,Fashion,Mobile,Social Media,New Visitor,105.0,4.0,1,2,0,0,43.9,0,1,42.82,19,1,1
+CUST10956,SESS20956,PROD586,Fashion,Mobile,Direct,New Visitor,437.0,5.0,3,4,1,6,41.6,3,1,14.42,18,5,0
+CUST10957,SESS20957,PROD843,Fashion,Mobile,Direct,Returning Visitor,226.0,6.0,3,6,0,2,69.8,1,1,18.98,2,1,0
+CUST10958,SESS20958,PROD203,Sports,Mobile,Organic Search,Returning Visitor,398.0,2.0,1,2,0,1,79.1,0,0,87.56,21,1,0
+CUST10959,SESS20959,PROD183,Fashion,Mobile,Organic Search,Returning Visitor,160.0,5.0,0,1,2,2,66.8,1,0,36.37,8,4,0
+CUST10960,SESS20960,PROD174,Fashion,Desktop,Organic Search,Returning Visitor,,7.0,3,5,1,0,20.6,1,1,54.71,6,7,1
+CUST10961,SESS20961,PROD447,Electronics,Desktop,Organic Search,Guest,250.0,7.0,2,4,1,2,46.3,1,0,29.96,14,6,0
+CUST10962,SESS20962,PROD415,Home & Kitchen,Desktop,Paid Ads,Returning Visitor,116.0,6.0,6,8,0,2,37.9,2,0,19.14,8,1,1
+CUST10963,SESS20963,PROD746,Home & Kitchen,Mobile,Organic Search,Returning Visitor,171.0,5.0,3,6,1,1,10.6,1,0,27.51,8,5,0
+CUST10964,SESS20964,PROD417,Beauty,Mobile,Organic Search,Returning Visitor,85.0,10.0,4,6,0,0,25.4,0,1,122.99,17,7,1
+CUST10965,SESS20965,PROD594,Sports,Mobile,Email,Guest,69.0,7.0,1,3,0,1,42.3,2,1,41.03,13,7,0
+CUST10966,SESS20966,PROD207,Sports,Desktop,Email,New Visitor,640.0,5.0,2,5,0,1,25.0,2,1,53.52,1,1,0
+CUST10967,SESS20967,PROD417,Books,Mobile,Organic Search,Returning Visitor,272.0,5.0,0,2,0,2,63.8,1,0,39.23,13,5,0
+CUST10968,SESS20968,PROD222,Fashion,Mobile,Email,New Visitor,799.0,4.0,4,7,1,3,45.3,0,1,47.92,9,4,1
+CUST10969,SESS20969,PROD404,Electronics,Mobile,Social Media,,99.0,5.0,6,8,0,1,20.9,0,0,45.52,10,5,0
+CUST10970,SESS20970,PROD231,Fashion,Mobile,Social Media,New Visitor,287.0,1.0,2,4,0,1,31.2,1,1,64.62,18,4,0
+CUST10971,SESS20971,PROD662,Electronics,Desktop,Organic Search,Returning Visitor,851.0,5.0,4,6,1,2,25.7,2,0,76.88,6,3,1
+CUST10972,SESS20972,PROD343,Home & Kitchen,Desktop,Social Media,New Visitor,19.0,4.0,3,3,0,0,,1,1,74.32,3,6,1
+CUST10973,SESS20973,PROD873,Fashion,Mobile,Email,New Visitor,104.0,5.0,2,7,0,1,15.7,3,0,36.52,11,3,0
+CUST10974,SESS20974,PROD916,Home & Kitchen,Mobile,Social Media,New Visitor,456.0,3.0,3,4,0,1,40.9,2,0,76.15,17,1,1
+CUST10975,SESS20975,PROD953,Home & Kitchen,Mobile,Paid Ads,New Visitor,275.0,3.0,4,8,1,1,46.7,2,1,26.48,21,3,0
+CUST10976,SESS20976,PROD592,Books,Mobile,Organic Search,Guest,113.0,7.0,3,4,0,0,76.2,0,1,21.93,2,3,0
+CUST10977,SESS20977,PROD994,Electronics,Mobile,Direct,Returning Visitor,208.0,6.0,7,8,1,1,81.6,4,0,52.51,11,6,1
+CUST10978,SESS20978,PROD453,Electronics,Desktop,Organic Search,Returning Visitor,136.0,7.0,2,2,0,1,60.7,1,1,12.61,2,5,1
+CUST10979,SESS20979,PROD494,Electronics,Desktop,Organic Search,New Visitor,177.0,10.0,4,5,0,2,37.5,2,0,33.91,11,2,1
+CUST10980,SESS20980,PROD454,Electronics,Desktop,Direct,New Visitor,165.0,7.0,3,6,0,0,52.1,2,0,74.47,21,6,0
+CUST10981,SESS20981,PROD273,Books,Mobile,Direct,New Visitor,158.0,4.0,5,7,0,2,29.9,1,0,36.86,19,3,0
+CUST10982,SESS20982,PROD396,Books,Mobile,Social Media,Guest,102.0,4.0,2,3,0,2,51.7,0,1,28.01,21,1,0
+CUST10983,SESS20983,PROD367,Fashion,Mobile,Social Media,Returning Visitor,387.0,5.0,1,2,2,1,62.6,3,0,56.03,14,1,0
+CUST10984,SESS20984,PROD532,Fashion,Mobile,Organic Search,Guest,231.0,5.0,6,8,0,0,26.5,1,0,85.45,10,2,1
+CUST10985,SESS20985,PROD906,Books,Desktop,Email,Guest,80.0,4.0,5,9,0,1,20.9,0,0,66.22,1,7,1
+CUST10986,SESS20986,PROD461,Sports,Mobile,Paid Ads,New Visitor,233.0,6.0,2,2,1,0,9.5,2,0,23.91,16,5,0
+CUST10987,SESS20987,PROD426,Beauty,Mobile,Social Media,Returning Visitor,227.0,4.0,4,4,0,3,35.4,0,0,71.64,20,6,0
+CUST10988,SESS20988,PROD985,Books,Mobile,Email,New Visitor,325.0,3.0,2,5,1,1,5.0,3,1,348.67,2,1,0
+CUST10989,SESS20989,PROD316,Home & Kitchen,Desktop,Organic Search,New Visitor,360.0,3.0,8,8,2,2,66.1,0,0,53.9,2,1,1
+CUST10990,SESS20990,PROD469,Electronics,Desktop,Paid Ads,New Visitor,80.0,6.0,2,7,0,2,51.7,3,0,34.29,14,6,0
+CUST10991,SESS20991,PROD184,Home & Kitchen,Mobile,Organic Search,Guest,427.0,,1,2,2,1,19.4,2,0,105.0,0,7,0
+CUST10992,SESS20992,PROD897,Electronics,Desktop,Social Media,Returning Visitor,79.0,9.0,6,8,1,3,26.2,2,0,16.43,10,7,0
+CUST10993,SESS20993,PROD288,Electronics,Desktop,Organic Search,Returning Visitor,252.0,7.0,3,5,0,2,39.3,3,1,20.74,23,2,0
+CUST10994,SESS20994,PROD270,Books,Desktop,Organic Search,New Visitor,292.0,5.0,3,4,0,1,54.9,2,1,34.57,20,3,1
+CUST10995,SESS20995,PROD585,Electronics,Mobile,Organic Search,Returning Visitor,117.0,6.0,2,5,0,2,,1,0,42.73,14,6,0
+CUST10996,SESS20996,PROD844,Electronics,Desktop,Organic Search,New Visitor,160.0,4.0,4,4,1,3,58.2,2,0,63.05,9,1,0
+CUST10997,SESS20997,PROD320,Sports,Mobile,Paid Ads,New Visitor,300.0,6.0,4,6,1,0,65.8,2,0,81.64,9,5,0
+CUST10998,SESS20998,PROD939,Books,Mobile,Organic Search,Guest,380.0,9.0,2,3,0,2,24.8,0,0,71.86,18,6,0
+CUST10999,SESS20999,PROD456,Sports,Desktop,Organic Search,New Visitor,64.0,9.0,2,4,0,2,61.7,3,0,23.6,11,2,1
+CUST11000,,PROD476,Electronics,Mobile,Social Media,New Visitor,351.0,2.0,3,7,0,1,48.4,2,0,61.93,4,7,0
